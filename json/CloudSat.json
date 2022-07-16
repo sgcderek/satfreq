@@ -1,0 +1,16 @@
+{
+    "name": "CloudSat",
+    "altnames": [],
+    "cospar": "2006-016A",
+    "norad": 29107,
+    "downlinks": [
+        {
+            "name": "CPR",
+            "frequency": 2217500000,
+            "bandwidth": 1500000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 1000000
+        }
+    ]
+}

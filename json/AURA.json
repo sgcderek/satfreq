@@ -1,0 +1,18 @@
+{
+    "name": "AURA",
+    "altnames": [
+        "EOS CH-1"
+    ],
+    "cospar": "2004-026A",
+    "norad": 28376,
+    "downlinks": [
+        {
+            "name": "DB",
+            "frequency": 8160000000,
+            "bandwidth": 12000000,
+            "polarization": "RHC",
+            "modulation": "OQPSK",
+            "symrate": 7500000
+        }
+    ]
+}
