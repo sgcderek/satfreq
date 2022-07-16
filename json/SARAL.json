@@ -1,0 +1,16 @@
+{
+    "name": "SARAL",
+    "altnames": [],
+    "cospar": "2013-009A",
+    "norad": 39086,
+    "downlinks": [
+        {
+            "name": "DCS",
+            "frequency": 1698400000,
+            "bandwidth": 600000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 400000
+        }
+    ]
+}

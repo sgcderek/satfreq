@@ -1,0 +1,19 @@
+{
+    "name": "GOES-13",
+    "altnames": [
+        "GOES-N",
+        "EWS-G1"
+    ],
+    "cospar": "2006-018A",
+    "norad": 29155,
+    "downlinks": [
+        {
+            "name": "PDR/GVAR",
+            "frequency": 1685700000,
+            "bandwidth": 3500000,
+            "polarization": "V",
+            "modulation": "BPSK",
+            "symrate": 2110000
+        }
+    ]
+}
