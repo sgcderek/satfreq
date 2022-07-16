@@ -1,0 +1,26 @@
+{
+    "name": "Meteor-M N2",
+    "altnames": [
+        "Meteor-M 2"
+    ],
+    "cospar": "2014-037A",
+    "norad": 40069,
+    "downlinks": [
+        {
+            "name": "LRPT",
+            "frequency": 137100000,
+            "bandwidth": 145000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 72000
+        },
+        {
+            "name": "HRPT",
+            "frequency": 1700000,
+            "bandwidth": 3000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 665400
+        }
+    ]
+}
