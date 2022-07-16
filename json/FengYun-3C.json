@@ -1,0 +1,18 @@
+{
+    "name": "FengYun-3C",
+    "altnames": [
+        "FY-3C"
+    ],
+    "cospar": "2013-052A",
+    "norad": 39260,
+    "downlinks": [
+        {
+            "name": "HRPT",
+            "frequency": 1701400000,
+            "bandwidth": 5000000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 2600000
+        }
+    ]
+}
