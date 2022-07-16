@@ -1,0 +1,21 @@
+name: Build
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Build satfreq.json
+      run: python3 concatenate.py
+
+    - name: Upload satfreq.json
+      uses: actions/upload-artifact@v3
+      with:
+        path: satfreq.json
