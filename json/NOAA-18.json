@@ -1,0 +1,66 @@
+{
+    "name": "NOAA-18",
+    "altnames": [
+        "NOAA-N"
+    ],
+    "cospar": "2005-018A",
+    "norad": 28654,
+    "downlinks": [
+        {
+            "name": "DSB",
+            "frequency": 137350000,
+            "bandwidth": 34000,
+            "polarization": "LIN",
+            "modulation": "BPSK",
+            "symrate": 8320
+        },
+        {
+            "name": "APT",
+            "frequency": 137912500,
+            "bandwidth": 45000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        },
+        {
+            "name": "SARSAT PDS",
+            "frequency": 1544500000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 2400
+        },
+        {
+            "name": "SARSAT Transponder",
+            "frequency": 1544500000,
+            "bandwidth": 450000,
+            "polarization": "RHC",
+            "modulation": null,
+            "symrate": null
+        },
+        {
+            "name": "HRPT",
+            "frequency": 1707000000,
+            "bandwidth": 3000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 665400
+        },
+        {
+            "name": "GAC",
+            "frequency": 1698000000,
+            "bandwidth": 6000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 2660000
+        },
+        {
+            "name": "GAC",
+            "frequency": 1702500000,
+            "bandwidth": 6000000,
+            "polarization": "LHC",
+            "modulation": "BPSK",
+            "symrate": 2660000
+        }
+    ]
+}

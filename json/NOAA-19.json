@@ -1,0 +1,59 @@
+{
+    "name": "NOAA-19",
+    "altnames": [
+        "NOAA-N'",
+        "NOAA-N Prime"
+    ],
+    "cospar": "2009-005A",
+    "norad": 33591,
+    "downlinks": [
+        {
+            "name": "DSB",
+            "frequency": 137770000,
+            "bandwidth": 34000,
+            "polarization": "LIN",
+            "modulation": "BPSK",
+            "symrate": 8320
+        },
+        {
+            "name": "APT",
+            "frequency": 137100000,
+            "bandwidth": 45000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        },
+        {
+            "name": "SARSAT PDS",
+            "frequency": 1544500000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 2400
+        },
+        {
+            "name": "SARSAT Transponder",
+            "frequency": 1544500000,
+            "bandwidth": 450000,
+            "polarization": "RHC",
+            "modulation": null,
+            "symrate": null
+        },
+        {
+            "name": "HRPT",
+            "frequency": 1698000000,
+            "bandwidth": 3000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 665400
+        },
+        {
+            "name": "GAC",
+            "frequency": 1702500000,
+            "bandwidth": 6000000,
+            "polarization": "LHC",
+            "modulation": "BPSK",
+            "symrate": 2660000
+        }
+    ]
+}
