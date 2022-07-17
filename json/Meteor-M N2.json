@@ -12,7 +12,8 @@
             "bandwidth": 145000,
             "polarization": "RHC",
             "modulation": "QPSK",
-            "symrate": 72000
+            "symrate": 72000,
+            "broadcast": true
         },
         {
             "name": "HRPT",
@@ -20,7 +21,8 @@
             "bandwidth": 3000000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 665400
+            "symrate": 665400,
+            "broadcast": true
         }
     ]
 }

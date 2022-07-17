@@ -10,7 +10,8 @@
             "bandwidth": 4000000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 2000000
+            "symrate": 2000000,
+            "broadcast": false
         }
     ]
 }

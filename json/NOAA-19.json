@@ -13,7 +13,8 @@
             "bandwidth": 34000,
             "polarization": "LIN",
             "modulation": "BPSK",
-            "symrate": 8320
+            "symrate": 8320,
+            "broadcast": true
         },
         {
             "name": "APT",
@@ -21,7 +22,8 @@
             "bandwidth": 45000,
             "polarization": "RHC",
             "modulation": "FM",
-            "symrate": null
+            "symrate": null,
+            "broadcast": true
         },
         {
             "name": "SARSAT PDS",
@@ -29,7 +31,8 @@
             "bandwidth": 10000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 2400
+            "symrate": 2400,
+            "broadcast": true
         },
         {
             "name": "SARSAT Transponder",
@@ -37,7 +40,8 @@
             "bandwidth": 450000,
             "polarization": "RHC",
             "modulation": null,
-            "symrate": null
+            "symrate": null,
+            "broadcast": true
         },
         {
             "name": "HRPT",
@@ -45,7 +49,8 @@
             "bandwidth": 3000000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 665400
+            "symrate": 665400,
+            "broadcast": true
         },
         {
             "name": "GAC",
@@ -53,7 +58,8 @@
             "bandwidth": 6000000,
             "polarization": "LHC",
             "modulation": "BPSK",
-            "symrate": 2660000
+            "symrate": 2660000,
+            "broadcast": false
         }
     ]
 }

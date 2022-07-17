@@ -12,7 +12,8 @@
             "bandwidth": 500000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 294000
+            "symrate": 294000,
+            "broadcast": true
         },
         {
             "name": "DCP",
@@ -20,7 +21,8 @@
             "bandwidth": 1000000,
             "polarization": "LIN",
             "modulation": null,
-            "symrate": null
+            "symrate": null,
+            "broadcast": true
         },
         {
             "name": "RDAS",
@@ -28,7 +30,8 @@
             "bandwidth": 60000000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 30720000
+            "symrate": 30720000,
+            "broadcast": true
         }
     ]
 }

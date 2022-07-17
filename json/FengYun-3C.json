@@ -12,7 +12,8 @@
             "bandwidth": 5000000,
             "polarization": "RHC",
             "modulation": "QPSK",
-            "symrate": 2600000
+            "symrate": 2600000,
+            "broadcast": true
         }
     ]
 }
