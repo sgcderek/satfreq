@@ -3,8 +3,6 @@ name: Build
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
 
 jobs:
   build:
@@ -15,13 +13,13 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Build satfreq.json
-      run: python3 concatenate.py
+      run: python3 concatenate.py && mkdir data && mv satfreq.json data
 
     - name: Upload satfreq.json
       uses: actions/upload-artifact@v3
       with:
         name: satfreq
-        path: satfreq.json
+        path: data/satfreq.json
 
     - name: Generate json/ directory listing
       run: cd json && (echo '<!DOCTYPE html><html><body><ul>'; for i in *; do echo "<li><a href=\"$i\">$i</a></li>"; done; echo '</ul></body></html>') > index.html
