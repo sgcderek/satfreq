@@ -1,0 +1,28 @@
+{
+    "name": "MetOp-B",
+    "altnames": [
+        "MetOp-1"
+    ],
+    "cospar": "2012-049A",
+    "norad": 38771,
+    "downlinks": [
+        {
+            "name": "SARSAT Transponder",
+            "frequency": 1544500000,
+            "bandwidth": 450000,
+            "polarization": "RHC",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
+            "name": "HRPT",
+            "frequency": 1701300000,
+            "bandwidth": 4000000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 2333333,
+            "broadcast": true
+        }
+    ]
+}

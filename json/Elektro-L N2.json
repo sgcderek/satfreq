@@ -1,0 +1,28 @@
+{
+    "name": "Elektro-L N2",
+    "altnames": [
+        "Elektro-L 2"
+    ],
+    "cospar": "2015-074A",
+    "norad": 41105,
+    "downlinks": [
+        {
+            "name": "DCP",
+            "frequency": 1697000000,
+            "bandwidth": 1000000,
+            "polarization": "LIN",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
+            "name": "RDAS",
+            "frequency": 7500000000,
+            "bandwidth": 60000000,
+            "polarization": "LHC",
+            "modulation": "BPSK",
+            "symrate": 30720000,
+            "broadcast": true
+        }
+    ]
+}

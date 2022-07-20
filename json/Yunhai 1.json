@@ -1,0 +1,17 @@
+{
+    "name": "Yunhai 1",
+    "altnames": [],
+    "cospar": "2016-068A",
+    "norad": 41857,
+    "downlinks": [
+        {
+            "name": "Encrypted data",
+            "frequency": 1704000000,
+            "bandwidth": 7500000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 4000000,
+            "broadcast": true
+        }
+    ]
+}

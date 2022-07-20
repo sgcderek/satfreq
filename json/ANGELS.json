@@ -1,0 +1,17 @@
+{
+    "name": "ANGELS",
+    "altnames": [],
+    "cospar": "2019-092D",
+    "norad": 44876,
+    "downlinks": [
+        {
+            "name": "DCS",
+            "frequency": 1698400000,
+            "bandwidth": 600000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 400000,
+            "broadcast": true
+        }
+    ]
+}

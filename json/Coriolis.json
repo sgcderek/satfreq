@@ -1,0 +1,20 @@
+{
+    "name": "Coriolis",
+    "altnames": [
+        "Coriolis/Windsat",
+        "P98-2"
+    ],
+    "cospar": "2003-001A",
+    "norad": 27640,
+    "downlinks": [
+        {
+            "name": "WindSat",
+            "frequency": 2221500000,
+            "bandwidth": 1000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 512000,
+            "broadcast": true
+        }
+    ]
+}

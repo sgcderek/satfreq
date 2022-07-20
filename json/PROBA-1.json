@@ -1,0 +1,17 @@
+{
+    "name": "PROBA-1",
+    "altnames": [],
+    "cospar": "2001-049B",
+    "norad": 26958,
+    "downlinks": [
+        {
+            "name": "Payload data",
+            "frequency": 2235000000,
+            "bandwidth": 4000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 2000000,
+            "broadcast": false
+        }
+    ]
+}

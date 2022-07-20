@@ -1,0 +1,29 @@
+{
+    "name": "Meteor-M N2-2",
+    "altnames": [
+        "Meteor-M 2-2",
+        "Meteor M2-2"
+    ],
+    "cospar": "2019-038A",
+    "norad": 44387,
+    "downlinks": [
+        {
+            "name": "SARSAT Transponder",
+            "frequency": 1544500000,
+            "bandwidth": 450000,
+            "polarization": "RHC",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
+            "name": "HRPT",
+            "frequency": 1700000,
+            "bandwidth": 3000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 665400,
+            "broadcast": true
+        }
+    ]
+}
