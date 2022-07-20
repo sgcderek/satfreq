@@ -20,4 +20,14 @@ jobs:
     - name: Upload satfreq.json
       uses: actions/upload-artifact@v3
       with:
+        name: satfreq
         path: satfreq.json
+
+    - name: Generate json/ directory listing
+      run: cd json && (echo '<!DOCTYPE html><html><body><ul>'; for i in *; do echo "<li><a href=\"$i\">$i</a></li>"; done; echo '</ul></body></html>') > index.html
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .
