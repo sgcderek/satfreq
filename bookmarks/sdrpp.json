@@ -83,9 +83,9 @@
                     "frequency": 437550000,
                     "mode": 7
                 },
-                "ISS Crew Contact": {
+                "ISS Crew Voice": {
                     "bandwidth": 0,
-                    "frequency": 145800000,
+                    "frequency": 130167000,
                     "mode": 7
                 },
                 "ISS V/U TRSP": {

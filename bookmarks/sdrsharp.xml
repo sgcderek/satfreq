@@ -155,7 +155,7 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>ISS Crew Contact</Name>
+		<Name>ISS Crew Voice</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>145800000</Frequency>
 		<DetectorType>RAW</DetectorType>
@@ -167,6 +167,24 @@
 		<Name>ISS V/U TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>437800000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ISS Crew Voice</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>130167000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ISS Crew Voice</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>130167000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>

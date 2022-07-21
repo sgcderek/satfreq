@@ -17,8 +17,10 @@ satfreq; #58A6FF
 145800000; ISS SSTV; Demod Off; 0; satfreq
 145825000; ISS APRS; Demod Off; 0; satfreq
 437550000; ISS APRS; Demod Off; 0; satfreq
-145800000; ISS Crew Contact; Demod Off; 0; satfreq
+145800000; ISS Crew Voice; Demod Off; 0; satfreq
 437800000; ISS V/U TRSP; Demod Off; 0; satfreq
+130167000; ISS Crew Voice; Demod Off; 0; satfreq
+130167000; ISS Crew Voice; Demod Off; 0; satfreq
 8160000000; AURA DB; Demod Off; 0; satfreq
 8160000000; AQUA DB; Demod Off; 0; satfreq
 1691000000; Elektro-L N3 LRIT; Demod Off; 0; satfreq
