@@ -3,14 +3,14 @@
     "lists": {
         "satfreq": {
             "bookmarks": {
-                "NOAA-19 DSB": {
-                    "bandwidth": 0,
-                    "frequency": 137770000,
-                    "mode": 7
-                },
                 "NOAA-19 APT": {
                     "bandwidth": 0,
                     "frequency": 137100000,
+                    "mode": 7
+                },
+                "NOAA-19 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137770000,
                     "mode": 7
                 },
                 "NOAA-19 S&R PDS": {
@@ -73,6 +73,11 @@
                     "frequency": 1704000000,
                     "mode": 7
                 },
+                "ISS Crew Voice": {
+                    "bandwidth": 0,
+                    "frequency": 145800000,
+                    "mode": 7
+                },
                 "ISS SSTV": {
                     "bandwidth": 0,
                     "frequency": 145800000,
@@ -81,11 +86,6 @@
                 "ISS APRS": {
                     "bandwidth": 0,
                     "frequency": 437550000,
-                    "mode": 7
-                },
-                "ISS Crew Voice": {
-                    "bandwidth": 0,
-                    "frequency": 130167000,
                     "mode": 7
                 },
                 "ISS V/U TRSP": {
@@ -150,7 +150,7 @@
                 },
                 "Meteor-M N2-2 HRPT": {
                     "bandwidth": 0,
-                    "frequency": 1700000,
+                    "frequency": 1700000000,
                     "mode": 7
                 },
                 "ANGELS DCS": {
@@ -208,14 +208,14 @@
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "NOAA-18 HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1707000000,
-                    "mode": 7
-                },
                 "NOAA-18 GAC": {
                     "bandwidth": 0,
                     "frequency": 1702500000,
+                    "mode": 7
+                },
+                "NOAA-18 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1707000000,
                     "mode": 7
                 },
                 "Meteor-M N2 LRPT": {
@@ -225,7 +225,7 @@
                 },
                 "Meteor-M N2 HRPT": {
                     "bandwidth": 0,
-                    "frequency": 1700000,
+                    "frequency": 1700000000,
                     "mode": 7
                 },
                 "PROBA-1 PD": {

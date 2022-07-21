@@ -2,18 +2,18 @@
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 DSB</Name>
+		<Name>NOAA-19 APT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>137770000</Frequency>
+		<Frequency>137100000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 APT</Name>
+		<Name>NOAA-19 DSB</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>137100000</Frequency>
+		<Frequency>137770000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>
@@ -128,6 +128,33 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>ISS Crew Voice</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>130167000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ISS Crew Voice</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>143625000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ISS Crew Voice</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>145800000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>ISS SSTV</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>145800000</Frequency>
@@ -155,36 +182,9 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>ISS Crew Voice</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>145800000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
 		<Name>ISS V/U TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>437800000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>ISS Crew Voice</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>130167000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>ISS Crew Voice</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>130167000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>
@@ -292,7 +292,7 @@
 		<IsFavourite>false</IsFavourite>
 		<Name>Meteor-M N2-2 HRPT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1700000</Frequency>
+		<Frequency>1700000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>
@@ -398,15 +398,6 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1707000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
 		<Name>NOAA-18 GAC</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1698000000</Frequency>
@@ -425,6 +416,15 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-18 HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1707000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Meteor-M N2 LRPT</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>137100000</Frequency>
@@ -436,7 +436,7 @@
 		<IsFavourite>false</IsFavourite>
 		<Name>Meteor-M N2 HRPT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1700000</Frequency>
+		<Frequency>1700000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>

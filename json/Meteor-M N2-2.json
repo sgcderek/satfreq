@@ -20,7 +20,7 @@
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of select imager and sounder data",
-            "frequency": 1700000,
+            "frequency": 1700000000,
             "bandwidth": 3000000,
             "polarization": "RHC",
             "modulation": "BPSK",
