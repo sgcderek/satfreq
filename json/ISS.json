@@ -34,8 +34,8 @@
             "symrate": 1200
         },
         {
-            "name": "Crew Contact",
-            "description": "ISS crew analog FM voice",
+            "name": "Crew Voice",
+            "description": "ISS space-to-ground analog FM voice",
             "frequency": 145800000,
             "bandwidth": 20000,
             "polarization": "RHC",
@@ -47,6 +47,24 @@
             "description": "Mode V/U amateur FM transponder",
             "frequency": 437800000,
             "bandwidth": 20000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        },
+        {
+            "name": "Crew Voice",
+            "description": "ISS on-orbit analog FM voice",
+            "frequency": 130167000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        },
+        {
+            "name": "Crew Voice",
+            "description": "ISS space-to-ground analog FM voice",
+            "frequency": 130167000,
+            "bandwidth": 10000,
             "polarization": "RHC",
             "modulation": "FM",
             "symrate": null
