@@ -9,6 +9,7 @@
     "downlinks": [
         {
             "name": "SARSAT Transponder",
+            "description": "Search and Rescue transponder",
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
@@ -18,6 +19,7 @@
         },
         {
             "name": "HRPT",
+            "description": "High Resolution Picture Transmission",
             "frequency": 1700000,
             "bandwidth": 3000000,
             "polarization": "RHC",

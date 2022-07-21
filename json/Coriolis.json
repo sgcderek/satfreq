@@ -9,6 +9,7 @@
     "downlinks": [
         {
             "name": "WindSat",
+            "description": "Real-time WindSat data",
             "frequency": 2221500000,
             "bandwidth": 1000000,
             "polarization": "RHC",

@@ -9,6 +9,7 @@
     "downlinks": [
         {
             "name": "PDR/GVAR",
+            "description": "Processed Data Relay",
             "frequency": 1685700000,
             "bandwidth": 3500000,
             "polarization": "V",
