@@ -123,7 +123,7 @@
                     sat.downlinks.forEach(downlink => {
                         content += `
 <tr>
-<td>${downlink.name}</td>
+<td title="${downlink.description}">${downlink.name}<td>
 <td>${downlink.frequency/1000000 + " MHz"}</td>
 <td>${downlink.bandwidth/1000 + " KHz"}</td>
 <td>${downlink.polarization}</td>
@@ -133,7 +133,7 @@
 </tr>`;
                     });
                     content += `
-</table>`
+</table><p><i>Hover over name to view description</i></p>`
                     document.querySelector("main").innerHTML = content;
                     return;
                 }
