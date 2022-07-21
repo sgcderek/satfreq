@@ -8,7 +8,7 @@
     "downlinks": [
         {
             "name": "DSB",
-            "description": "Direct Sounder Broadcast",
+            "description": "Real time Direct Sounder Broadcast of select sounder data",
             "frequency": 137350000,
             "bandwidth": 34000,
             "polarization": "LIN",
@@ -18,7 +18,7 @@
         },
         {
             "name": "APT",
-            "description": "Automatic Picture Transmission",
+            "description": "Real time Automatic Picture Transmission of reduced resolution imager data",
             "frequency": 137912500,
             "bandwidth": 45000,
             "polarization": "RHC",
@@ -27,7 +27,7 @@
             "broadcast": true
         },
         {
-            "name": "SARSAT PDS",
+            "name": "S&R PDS",
             "description": "Search and Rescue Processed Data Stream",
             "frequency": 1544500000,
             "bandwidth": 10000,
@@ -37,8 +37,8 @@
             "broadcast": true
         },
         {
-            "name": "SARSAT Transponder",
-            "description": "Search and Rescue transponder",
+            "name": "S&R TRSP",
+            "description": "Search and Rescue Transponder",
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
@@ -48,7 +48,7 @@
         },
         {
             "name": "HRPT",
-            "description": "High Resolution Picture Transmission",
+            "description": "Real time High Resolution Picture Transmission of all imager and sounder data",
             "frequency": 1707000000,
             "bandwidth": 3000000,
             "polarization": "RHC",
@@ -58,7 +58,7 @@
         },
         {
             "name": "GAC",
-            "description": "Global Area Coverage",
+            "description": "Global Access Coverage playback of select stored sounder and reduced resolution imager data",
             "frequency": 1698000000,
             "bandwidth": 6000000,
             "polarization": "RHC",
@@ -68,7 +68,7 @@
         },
         {
             "name": "GAC",
-            "description": "Global Area Coverage",
+            "description": "Global Access Coverage playback of select stored sounder and reduced resolution imager data",
             "frequency": 1702500000,
             "bandwidth": 6000000,
             "polarization": "LHC",

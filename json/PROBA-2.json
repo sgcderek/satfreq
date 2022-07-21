@@ -5,8 +5,8 @@
     "norad": 36037,
     "downlinks": [
         {
-            "name": "Payload data",
-            "description": "Payload data",
+            "name": "PD",
+            "description": "Playback of stored Payload Data and imagery",
             "frequency": 2235000000,
             "bandwidth": 4000000,
             "polarization": "RHC",

@@ -7,8 +7,8 @@
     "norad": 38771,
     "downlinks": [
         {
-            "name": "SARSAT Transponder",
-            "description": "Search and Rescue transponder",
+            "name": "S&R TRSP",
+            "description": "Search and Rescue Transponder",
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
@@ -18,7 +18,7 @@
         },
         {
             "name": "HRPT",
-            "description": "High Resolution Picture Transmission",
+            "description": "Real time High Resolution Picture Transmission of all imager and sounder data",
             "frequency": 1701300000,
             "bandwidth": 4000000,
             "polarization": "RHC",
