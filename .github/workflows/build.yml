@@ -15,6 +15,20 @@ jobs:
     - name: Build satfreq.json
       run: rm .gitignore && python3 concatenate.py
 
+    - name: Build bookmark files
+      run: |
+        python3 sdrpp_bookmarks.py &&
+        python3 sdrsharp_bookmarks.py &&
+        python3 gqrx_bookmarks.py &&
+        mkdir bookmarks &&
+        mv sdrpp_bookmarks.json sdrsharp_bookmarks.xml gqrx_bookmarks.csv bookmarks
+
+    - name: Upload bookmarks
+      uses: actions/upload-artifact@v3
+      with:
+        name: bookmarks
+        path: bookmarks/
+
     - name: Upload satfreq.json
       uses: actions/upload-artifact@v3
       with:
