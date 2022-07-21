@@ -8,6 +8,7 @@
     "downlinks": [
         {
             "name": "DCP",
+            "description": "Data Collection Platform",
             "frequency": 1697000000,
             "bandwidth": 1000000,
             "polarization": "LIN",
@@ -17,6 +18,7 @@
         },
         {
             "name": "RDAS",
+            "description": "Raw MSU-GS data",
             "frequency": 7500000000,
             "bandwidth": 60000000,
             "polarization": "LHC",

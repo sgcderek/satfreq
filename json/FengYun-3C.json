@@ -8,6 +8,7 @@
     "downlinks": [
         {
             "name": "HRPT",
+            "description": "High Resolution Picture Transmission",
             "frequency": 1701400000,
             "bandwidth": 5000000,
             "polarization": "RHC",

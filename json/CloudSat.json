@@ -6,6 +6,7 @@
     "downlinks": [
         {
             "name": "CPR",
+            "description": "Cloud Profiling Radar",
             "frequency": 2217500000,
             "bandwidth": 1500000,
             "polarization": "RHC",

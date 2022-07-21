@@ -8,6 +8,7 @@
     "downlinks": [
         {
             "name": "DB",
+            "description": "Direct Broadcast",
             "frequency": 8160000000,
             "bandwidth": 12000000,
             "polarization": "RHC",

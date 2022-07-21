@@ -8,6 +8,7 @@
     "downlinks": [
         {
             "name": "DSB",
+            "description": "Direct Sounder Broadcast",
             "frequency": 137350000,
             "bandwidth": 34000,
             "polarization": "LIN",
@@ -17,6 +18,7 @@
         },
         {
             "name": "APT",
+            "description": "Automatic Picture Transmission",
             "frequency": 137620000,
             "bandwidth": 45000,
             "polarization": "RHC",
@@ -26,6 +28,7 @@
         },
         {
             "name": "SARSAT PDS",
+            "description": "Search and Rescue Processed Data Stream",
             "frequency": 1544500000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -35,6 +38,7 @@
         },
         {
             "name": "SARSAT Transponder",
+            "description": "Search and Rescue transponder",
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
@@ -44,6 +48,7 @@
         },
         {
             "name": "HRPT",
+            "description": "High Resolution Picture Transmission",
             "frequency": 1702500000,
             "bandwidth": 3000000,
             "polarization": "RHC",

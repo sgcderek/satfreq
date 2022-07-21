@@ -6,6 +6,7 @@
     "downlinks": [
         {
             "name": "Payload data",
+            "description": "Payload data",
             "frequency": 2235000000,
             "bandwidth": 4000000,
             "polarization": "RHC",
