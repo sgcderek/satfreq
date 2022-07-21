@@ -21,7 +21,9 @@ jobs:
         python3 sdrsharp_bookmarks.py &&
         python3 gqrx_bookmarks.py &&
         mkdir bookmarks &&
-        mv sdrpp_bookmarks.json sdrsharp_bookmarks.xml gqrx_bookmarks.csv bookmarks
+        mv sdrpp_bookmarks.json   bookmarks/sdrpp.json &&
+        mv sdrsharp_bookmarks.xml bookmarks/sdrsharp.xml &&
+        mv gqrx_bookmarks.csv     bookmarks/gqrx.csv
 
     - name: Upload bookmarks
       uses: actions/upload-artifact@v3
@@ -35,16 +37,8 @@ jobs:
         name: satfreq
         path: satfreq.json
 
-    - name: Generate json/ directory listing
-      run: |
-        cd json &&
-        (echo '<!DOCTYPE html><html><body><ul><li><a href="..">..</a></li>'
-        for i in *; do
-            if [ "$i" != "index.html" ]; then
-                echo "<li><a href=\"$i\">$i</a></li>"
-            fi
-        done
-        echo '</ul></body></html>') > index.html
+    - name: Generate directory listings
+      run: cd json && ../make_html_listing.sh && cd ../bookmarks && ../make_html_listing.sh
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
