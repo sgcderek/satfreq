@@ -1,0 +1,55 @@
+{
+    "name": "ISS",
+    "altnames": [
+        "МКС"
+    ],
+    "cospar": "1998-067A",
+    "norad": 25544,
+    "downlinks": [
+        {
+            "name": "SSTV",
+            "description": "Special event Short Scan Television images",
+            "frequency": 145800000,
+            "bandwidth": 20000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        },
+        {
+            "name": "APRS",
+            "description": "Mode V Automatic Packet Reporting System digipeater downlink",
+            "frequency": 145825000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": 1200
+        },
+        {
+            "name": "APRS",
+            "description": "Mode U Automatic Packet Reporting System digipeater downlink",
+            "frequency": 437550000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": 1200
+        },
+        {
+            "name": "Crew Contact",
+            "description": "ISS crew analog FM voice",
+            "frequency": 145800000,
+            "bandwidth": 20000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        },
+        {
+            "name": "V/U TRSP",
+            "description": "Mode V/U amateur FM transponder",
+            "frequency": 437800000,
+            "bandwidth": 20000,
+            "polarization": "RHC",
+            "modulation": "FM",
+            "symrate": null
+        }
+    ]
+}

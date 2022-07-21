@@ -1,0 +1,28 @@
+{
+    "name": "Es'Hail-2",
+    "altnames": [
+        "QO-100"
+    ],
+    "cospar": "2018-090A",
+    "norad": 43700,
+    "downlinks": [
+        {
+            "name": "NB TRSP",
+            "description": "Narrowband amateur linear transponder downlink",
+            "frequency": 10489750000,
+            "bandwidth": 500000,
+            "polarization": "V",
+            "modulation": null,
+            "symrate": null
+        },
+        {
+            "name": "WB TRSP",
+            "description": "Wideband amateur linear transponder downlink",
+            "frequency": 10503000000,
+            "bandwidth": 8000000,
+            "polarization": "H",
+            "modulation": null,
+            "symrate": null
+        }
+    ]
+}

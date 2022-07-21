@@ -73,6 +73,26 @@
                     "frequency": 1704000000,
                     "mode": 7
                 },
+                "ISS SSTV": {
+                    "bandwidth": 0,
+                    "frequency": 145800000,
+                    "mode": 7
+                },
+                "ISS APRS": {
+                    "bandwidth": 0,
+                    "frequency": 437550000,
+                    "mode": 7
+                },
+                "ISS Crew Contact": {
+                    "bandwidth": 0,
+                    "frequency": 145800000,
+                    "mode": 7
+                },
+                "ISS V/U TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 437800000,
+                    "mode": 7
+                },
                 "AURA DB": {
                     "bandwidth": 0,
                     "frequency": 8160000000,
@@ -96,6 +116,16 @@
                 "Elektro-L N3 RDAS": {
                     "bandwidth": 0,
                     "frequency": 7500000000,
+                    "mode": 7
+                },
+                "Es'Hail-2 NB TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 10489750000,
+                    "mode": 7
+                },
+                "Es'Hail-2 WB TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 10503000000,
                     "mode": 7
                 },
                 "Yunhai 1 Encrypted data": {
