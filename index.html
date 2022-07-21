@@ -74,10 +74,22 @@
         .searchresults {
             height: 100%;
         }
+        td, th {
+            box-sizing: border-box;
+            padding: 0.25em;
+        }
     </style>
     <script>
         let satfreq;
         let fuse;
+
+        function prefix_sps(val) {
+            if (val > 1000000) {
+                return val/1000000 + " msps";
+            } else if (val > 1000) {
+                return val/1000 + " ksps";
+            }
+        }
 
         function showdata(ref) {
             satfreq.forEach(sat => {
@@ -112,11 +124,11 @@
                         content += `
 <tr>
 <td>${downlink.name}</td>
-<td>${downlink.frequency}</td>
-<td>${downlink.bandwidth}</td>
+<td>${downlink.frequency/1000000 + " MHz"}</td>
+<td>${downlink.bandwidth/1000 + " KHz"}</td>
 <td>${downlink.polarization}</td>
 <td>${downlink.modulation}</td>
-<td>${downlink.symrate}</td>
+<td>${prefix_sps(downlink.symrate)}</td>
 <td>${downlink.broadcast}</td>
 </tr>`;
                     });
@@ -129,6 +141,8 @@
         }
 
         window.onload = function() {
+            document.querySelector(".search").value = "";
+            document.querySelector(".search").focus();
             let xhr = new XMLHttpRequest();
             xhr.open('GET', 'satfreq.json');
             xhr.send();
