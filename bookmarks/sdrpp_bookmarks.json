@@ -1,0 +1,216 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "satfreq": {
+            "bookmarks": {
+                "NOAA-19 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137770000,
+                    "mode": 7
+                },
+                "NOAA-19 APT": {
+                    "bandwidth": 0,
+                    "frequency": 137100000,
+                    "mode": 7
+                },
+                "NOAA-19 SARSAT PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-19 SARSAT Transponder": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-19 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1698000000,
+                    "mode": 7
+                },
+                "NOAA-19 GAC": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "MetOp-C HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1701300000,
+                    "mode": 7
+                },
+                "SARAL DCS": {
+                    "bandwidth": 0,
+                    "frequency": 1698400000,
+                    "mode": 7
+                },
+                "Elektro-L N2 DCP": {
+                    "bandwidth": 0,
+                    "frequency": 1697000000,
+                    "mode": 7
+                },
+                "Elektro-L N2 RDAS": {
+                    "bandwidth": 0,
+                    "frequency": 7500000000,
+                    "mode": 7
+                },
+                "MetOp-B SARSAT Transponder": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "MetOp-B HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1701300000,
+                    "mode": 7
+                },
+                "Coriolis WindSat": {
+                    "bandwidth": 0,
+                    "frequency": 2221500000,
+                    "mode": 7
+                },
+                "Yunhai 1-02 Encrypted data": {
+                    "bandwidth": 0,
+                    "frequency": 1704000000,
+                    "mode": 7
+                },
+                "AURA DB": {
+                    "bandwidth": 0,
+                    "frequency": 8160000000,
+                    "mode": 7
+                },
+                "AQUA DB": {
+                    "bandwidth": 0,
+                    "frequency": 8160000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 LRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1691000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 DCP": {
+                    "bandwidth": 0,
+                    "frequency": 1697000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 RDAS": {
+                    "bandwidth": 0,
+                    "frequency": 7500000000,
+                    "mode": 7
+                },
+                "Yunhai 1 Encrypted data": {
+                    "bandwidth": 0,
+                    "frequency": 1704000000,
+                    "mode": 7
+                },
+                "FengYun-3C HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1701400000,
+                    "mode": 7
+                },
+                "GOES-13 PDR/GVAR": {
+                    "bandwidth": 0,
+                    "frequency": 1685700000,
+                    "mode": 7
+                },
+                "Meteor-M N2-2 SARSAT Transponder": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "Meteor-M N2-2 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1700000,
+                    "mode": 7
+                },
+                "ANGELS DCS": {
+                    "bandwidth": 0,
+                    "frequency": 1698400000,
+                    "mode": 7
+                },
+                "CloudSat CPR": {
+                    "bandwidth": 0,
+                    "frequency": 2217500000,
+                    "mode": 7
+                },
+                "NOAA-15 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137350000,
+                    "mode": 7
+                },
+                "NOAA-15 APT": {
+                    "bandwidth": 0,
+                    "frequency": 137620000,
+                    "mode": 7
+                },
+                "NOAA-15 SARSAT PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-15 SARSAT Transponder": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-15 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "NOAA-18 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137350000,
+                    "mode": 7
+                },
+                "NOAA-18 APT": {
+                    "bandwidth": 0,
+                    "frequency": 137912500,
+                    "mode": 7
+                },
+                "NOAA-18 SARSAT PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-18 SARSAT Transponder": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-18 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1707000000,
+                    "mode": 7
+                },
+                "NOAA-18 GAC": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "Meteor-M N2 LRPT": {
+                    "bandwidth": 0,
+                    "frequency": 137100000,
+                    "mode": 7
+                },
+                "Meteor-M N2 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1700000,
+                    "mode": 7
+                },
+                "PROBA-1 Payload data": {
+                    "bandwidth": 0,
+                    "frequency": 2235000000,
+                    "mode": 7
+                },
+                "PROBA-2 Payload data": {
+                    "bandwidth": 0,
+                    "frequency": 2235000000,
+                    "mode": 7
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "satfreq"
+}

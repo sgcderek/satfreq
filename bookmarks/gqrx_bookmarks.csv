@@ -1,0 +1,44 @@
+satfreq; #58A6FF
+
+137770000; NOAA-19 DSB; Demod Off; 0; satfreq
+137100000; NOAA-19 APT; Demod Off; 0; satfreq
+1544500000; NOAA-19 SARSAT PDS; Demod Off; 0; satfreq
+1544500000; NOAA-19 SARSAT Transponder; Demod Off; 0; satfreq
+1698000000; NOAA-19 HRPT; Demod Off; 0; satfreq
+1702500000; NOAA-19 GAC; Demod Off; 0; satfreq
+1701300000; MetOp-C HRPT; Demod Off; 0; satfreq
+1698400000; SARAL DCS; Demod Off; 0; satfreq
+1697000000; Elektro-L N2 DCP; Demod Off; 0; satfreq
+7500000000; Elektro-L N2 RDAS; Demod Off; 0; satfreq
+1544500000; MetOp-B SARSAT Transponder; Demod Off; 0; satfreq
+1701300000; MetOp-B HRPT; Demod Off; 0; satfreq
+2221500000; Coriolis WindSat; Demod Off; 0; satfreq
+1704000000; Yunhai 1-02 Encrypted data; Demod Off; 0; satfreq
+8160000000; AURA DB; Demod Off; 0; satfreq
+8160000000; AQUA DB; Demod Off; 0; satfreq
+1691000000; Elektro-L N3 LRIT; Demod Off; 0; satfreq
+1697000000; Elektro-L N3 DCP; Demod Off; 0; satfreq
+7500000000; Elektro-L N3 RDAS; Demod Off; 0; satfreq
+1704000000; Yunhai 1 Encrypted data; Demod Off; 0; satfreq
+1701400000; FengYun-3C HRPT; Demod Off; 0; satfreq
+1685700000; GOES-13 PDR/GVAR; Demod Off; 0; satfreq
+1544500000; Meteor-M N2-2 SARSAT Transponder; Demod Off; 0; satfreq
+1700000; Meteor-M N2-2 HRPT; Demod Off; 0; satfreq
+1698400000; ANGELS DCS; Demod Off; 0; satfreq
+2217500000; CloudSat CPR; Demod Off; 0; satfreq
+137350000; NOAA-15 DSB; Demod Off; 0; satfreq
+137620000; NOAA-15 APT; Demod Off; 0; satfreq
+1544500000; NOAA-15 SARSAT PDS; Demod Off; 0; satfreq
+1544500000; NOAA-15 SARSAT Transponder; Demod Off; 0; satfreq
+1702500000; NOAA-15 HRPT; Demod Off; 0; satfreq
+137350000; NOAA-18 DSB; Demod Off; 0; satfreq
+137912500; NOAA-18 APT; Demod Off; 0; satfreq
+1544500000; NOAA-18 SARSAT PDS; Demod Off; 0; satfreq
+1544500000; NOAA-18 SARSAT Transponder; Demod Off; 0; satfreq
+1707000000; NOAA-18 HRPT; Demod Off; 0; satfreq
+1698000000; NOAA-18 GAC; Demod Off; 0; satfreq
+1702500000; NOAA-18 GAC; Demod Off; 0; satfreq
+137100000; Meteor-M N2 LRPT; Demod Off; 0; satfreq
+1700000; Meteor-M N2 HRPT; Demod Off; 0; satfreq
+2235000000; PROBA-1 Payload data; Demod Off; 0; satfreq
+2235000000; PROBA-2 Payload data; Demod Off; 0; satfreq
