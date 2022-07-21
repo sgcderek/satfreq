@@ -22,7 +22,15 @@ jobs:
         path: satfreq.json
 
     - name: Generate json/ directory listing
-      run: cd json && (echo '<!DOCTYPE html><html><body><ul>'; for i in *; do echo "<li><a href=\"$i\">$i</a></li>"; done; echo '</ul></body></html>') > index.html
+      run: |
+        cd json &&
+        (echo '<!DOCTYPE html><html><body><ul><li><a href="..">..</a></li>'
+        for i in *; do
+            if [ "$i" != "index.html" ]; then
+                echo "<li><a href=\"$i\">$i</a></li>"
+            fi
+        done
+        echo '</ul></body></html>') > index.html
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
