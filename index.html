@@ -23,6 +23,10 @@
         a, a:visited {
             color: rgb(88, 166, 255);
         }
+        td, th {
+            box-sizing: border-box;
+            padding: 0.25em;
+        }
 
         .divider {
             display: flex;
@@ -38,10 +42,14 @@
             display: flex;
             flex-direction: column;
             box-sizing: border-box;
+            overflow-y: auto;
         }
         main {
             background-color: rgb(13, 17, 23);
             width: 100%;
+        }
+        footer {
+            flex-shrink: 0;
         }
 
         .search {
@@ -64,7 +72,6 @@
             cursor: pointer;
             padding: 0.5em 0;
         }
-
         .starter {
             display: flex;
             height: 100%;
@@ -72,11 +79,7 @@
             justify-content: center;
         }
         .searchresults {
-            height: 100%;
-        }
-        td, th {
-            box-sizing: border-box;
-            padding: 0.25em;
+            flex: 1;
         }
     </style>
     <script>
@@ -167,15 +170,22 @@
 
                 document.querySelector(".search").oninput = function() {
                     document.querySelector(".searchresults").innerHTML = "";
-                    const result = fuse.search(document.querySelector(".search").value);
-                    result.forEach(sat => {
-                        document.querySelector(".searchresults").innerHTML += `<li>${sat.item.name}</li>`;
-                    });
+                    if (document.querySelector(".search").value == "") {
+                        satfreq.forEach(sat => {
+                            document.querySelector(".searchresults").innerHTML += `<li>${sat.name}</li>`;
+                        });
+                    } else {
+                        const result = fuse.search(document.querySelector(".search").value);
+                        result.forEach(sat => {
+                            document.querySelector(".searchresults").innerHTML += `<li>${sat.item.name}</li>`;
+                        });
+                    }
 
                     document.querySelectorAll(".searchresults li").forEach(button => {
                         button.onclick = showdata;
                     });
                 }
+                document.querySelector(".search").oninput();
             };
         }
     </script>
