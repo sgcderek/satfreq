@@ -9,7 +9,7 @@
     "downlinks": [
         {
             "name": "PDR/GVAR",
-            "description": "Processed Data Relay",
+            "description": "Processed Data Relay for GOES Variable imagery",
             "frequency": 1685700000,
             "bandwidth": 3500000,
             "polarization": "V",

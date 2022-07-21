@@ -6,7 +6,7 @@
     "downlinks": [
         {
             "name": "DCS",
-            "description": "Argos Data Collection System",
+            "description": "Real time Argos Data Collection System data",
             "frequency": 1698400000,
             "bandwidth": 600000,
             "polarization": "RHC",
