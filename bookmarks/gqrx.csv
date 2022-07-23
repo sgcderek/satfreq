@@ -28,8 +28,12 @@ satfreq; #58A6FF
 7500000000; Elektro-L N3 RDAS; Demod Off; 0; satfreq
 10489750000; Es'Hail-2 NB TRSP; Demod Off; 0; satfreq
 10503000000; Es'Hail-2 WB TRSP; Demod Off; 0; satfreq
+1687500000; FengYun-2H S-VISSR; Demod Off; 0; satfreq
+1702500000; FengYun-2H TLM; Demod Off; 0; satfreq
 1704000000; Yunhai 1 Encrypted data; Demod Off; 0; satfreq
 1701400000; FengYun-3C HRPT; Demod Off; 0; satfreq
+1676000000; GOES-13 Imager SD; Demod Off; 0; satfreq
+1676000000; GOES-13 Sounder SD; Demod Off; 0; satfreq
 1685700000; GOES-13 PDR/GVAR; Demod Off; 0; satfreq
 1544500000; Meteor-M N2-2 S&R TRSP; Demod Off; 0; satfreq
 1700000000; Meteor-M N2-2 HRPT; Demod Off; 0; satfreq

@@ -254,6 +254,24 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-2H S-VISSR</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1687500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-2H TLM</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1702500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Yunhai 1 Encrypted data</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1704000000</Frequency>
@@ -266,6 +284,24 @@
 		<Name>FengYun-3C HRPT</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1701400000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-13 Imager SD</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1676000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>0</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-13 Sounder SD</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1676000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>0</FilterBandwidth>
