@@ -7,7 +7,7 @@
 		<Frequency>137100000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -16,7 +16,7 @@
 		<Frequency>137770000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -25,7 +25,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -34,7 +34,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -43,7 +43,7 @@
 		<Frequency>1698000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -52,7 +52,7 @@
 		<Frequency>1702500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -61,7 +61,7 @@
 		<Frequency>1701300000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -70,7 +70,7 @@
 		<Frequency>1698400000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -79,7 +79,7 @@
 		<Frequency>1697000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -88,7 +88,7 @@
 		<Frequency>7500000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -97,7 +97,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -106,7 +106,7 @@
 		<Frequency>1701300000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -115,7 +115,7 @@
 		<Frequency>2221500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -124,7 +124,7 @@
 		<Frequency>1704000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -133,7 +133,7 @@
 		<Frequency>130167000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -142,7 +142,7 @@
 		<Frequency>143625000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -151,7 +151,7 @@
 		<Frequency>145800000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -160,7 +160,7 @@
 		<Frequency>145800000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -169,7 +169,7 @@
 		<Frequency>145825000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -178,7 +178,7 @@
 		<Frequency>437550000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -187,7 +187,7 @@
 		<Frequency>437800000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -196,7 +196,7 @@
 		<Frequency>8160000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -205,7 +205,7 @@
 		<Frequency>8160000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -214,7 +214,7 @@
 		<Frequency>1691000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -223,7 +223,7 @@
 		<Frequency>1697000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -232,7 +232,7 @@
 		<Frequency>7500000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -241,7 +241,7 @@
 		<Frequency>10489750000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -250,7 +250,7 @@
 		<Frequency>10503000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -259,7 +259,7 @@
 		<Frequency>1687500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -268,7 +268,7 @@
 		<Frequency>1702500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -277,7 +277,7 @@
 		<Frequency>1704000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -286,7 +286,7 @@
 		<Frequency>1701400000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -295,7 +295,7 @@
 		<Frequency>1676000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -304,7 +304,7 @@
 		<Frequency>1676000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -313,7 +313,7 @@
 		<Frequency>1685700000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -322,7 +322,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -331,7 +331,7 @@
 		<Frequency>1700000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -340,7 +340,7 @@
 		<Frequency>1698400000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -349,7 +349,7 @@
 		<Frequency>2217500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -358,7 +358,7 @@
 		<Frequency>137350000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -367,7 +367,7 @@
 		<Frequency>137620000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -376,7 +376,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -385,7 +385,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -394,7 +394,7 @@
 		<Frequency>1702500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -403,7 +403,7 @@
 		<Frequency>137350000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -412,7 +412,7 @@
 		<Frequency>137912500</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -421,7 +421,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -430,7 +430,7 @@
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -439,7 +439,7 @@
 		<Frequency>1698000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -448,7 +448,7 @@
 		<Frequency>1702500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -457,7 +457,7 @@
 		<Frequency>1707000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -466,7 +466,7 @@
 		<Frequency>137100000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -475,7 +475,7 @@
 		<Frequency>1700000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -484,7 +484,7 @@
 		<Frequency>2235000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
@@ -493,6 +493,6 @@
 		<Frequency>2235000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
-		<FilterBandwidth>0</FilterBandwidth>
+		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 </ArrayOfMemoryEntry>

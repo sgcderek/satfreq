@@ -32,7 +32,7 @@ with open("satfreq.json", "r") as sat_file:
             val.appendChild(root.createTextNode("0"))
             bookmark.appendChild(val)
             val = root.createElement("FilterBandwidth")
-            val.appendChild(root.createTextNode("0"))
+            val.appendChild(root.createTextNode("1000"))
             bookmark.appendChild(val)
 
             xml.appendChild(bookmark)
