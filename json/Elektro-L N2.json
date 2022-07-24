@@ -7,6 +7,16 @@
     "norad": 41105,
     "downlinks": [
         {
+            "name": "GGAK",
+            "description": "GGAK-E sounder data",
+            "frequency": 1693000000,
+            "bandwidth": 15000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 5000,
+            "broadcast": true
+        },
+        {
             "name": "DCP",
             "description": "Data Collection Platform transponder",
             "frequency": 1697000000,

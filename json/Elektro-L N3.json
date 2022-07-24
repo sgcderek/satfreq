@@ -17,13 +17,13 @@
             "broadcast": true
         },
         {
-            "name": "TLM",
-            "description": "Satellite Telemetry Downlink",
+            "name": "GGAK",
+            "description": "GGAK-E sounder data",
             "frequency": 1693000000,
             "bandwidth": 15000,
             "polarization": "RHC",
-            "modulation": "null",
-            "symrate": null,
+            "modulation": "BPSK",
+            "symrate": 5000,
             "broadcast": true
         },
         {
