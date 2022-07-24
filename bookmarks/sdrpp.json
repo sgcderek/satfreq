@@ -43,6 +43,11 @@
                     "frequency": 1698400000,
                     "mode": 7
                 },
+                "Elektro-L N2 GGAK": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
+                    "mode": 7
+                },
                 "Elektro-L N2 DCP": {
                     "bandwidth": 0,
                     "frequency": 1697000000,
@@ -108,7 +113,7 @@
                     "frequency": 1691000000,
                     "mode": 7
                 },
-                "Elektro-L N3 TLM": {
+                "Elektro-L N3 GGAK": {
                     "bandwidth": 0,
                     "frequency": 1693000000,
                     "mode": 7

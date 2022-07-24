@@ -74,6 +74,15 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N2 GGAK</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1693000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Elektro-L N2 DCP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1697000000</Frequency>
@@ -218,7 +227,7 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N3 TLM</Name>
+		<Name>Elektro-L N3 GGAK</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1693000000</Frequency>
 		<DetectorType>RAW</DetectorType>
