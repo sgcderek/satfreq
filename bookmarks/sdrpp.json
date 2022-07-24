@@ -108,6 +108,11 @@
                     "frequency": 1691000000,
                     "mode": 7
                 },
+                "Elektro-L N3 TLM": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
+                    "mode": 7
+                },
                 "Elektro-L N3 DCP": {
                     "bandwidth": 0,
                     "frequency": 1697000000,

@@ -24,6 +24,7 @@ satfreq; #58A6FF
 8160000000; AURA DB; Demod Off; 0; satfreq
 8160000000; AQUA DB; Demod Off; 0; satfreq
 1691000000; Elektro-L N3 LRIT; Demod Off; 0; satfreq
+1693000000; Elektro-L N3 TLM; Demod Off; 0; satfreq
 1697000000; Elektro-L N3 DCP; Demod Off; 0; satfreq
 7500000000; Elektro-L N3 RDAS; Demod Off; 0; satfreq
 10489750000; Es'Hail-2 NB TRSP; Demod Off; 0; satfreq
