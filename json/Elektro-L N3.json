@@ -17,6 +17,16 @@
             "broadcast": true
         },
         {
+            "name": "TLM",
+            "description": "Satellite Telemetry Downlink",
+            "frequency": 1693000000,
+            "bandwidth": 15000,
+            "polarization": "RHC",
+            "modulation": "null",
+            "symrate": null,
+            "broadcast": true
+        },
+        {
             "name": "DCP",
             "description": "Data Collection Platform transponder",
             "frequency": 1697000000,
