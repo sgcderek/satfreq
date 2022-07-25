@@ -25,6 +25,7 @@ satfreq; #58A6FF
 8160000000; AURA DB; Demod Off; 0; satfreq
 8160000000; AQUA DB; Demod Off; 0; satfreq
 1691000000; Elektro-L N3 LRIT; Demod Off; 0; satfreq
+1691000000; Elektro-L N3 HRIT; Demod Off; 0; satfreq
 1693000000; Elektro-L N3 GGAK; Demod Off; 0; satfreq
 1697000000; Elektro-L N3 DCP; Demod Off; 0; satfreq
 7500000000; Elektro-L N3 RDAS; Demod Off; 0; satfreq

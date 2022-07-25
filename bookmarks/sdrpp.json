@@ -113,6 +113,11 @@
                     "frequency": 1691000000,
                     "mode": 7
                 },
+                "Elektro-L N3 HRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1691000000,
+                    "mode": 7
+                },
                 "Elektro-L N3 GGAK": {
                     "bandwidth": 0,
                     "frequency": 1693000000,

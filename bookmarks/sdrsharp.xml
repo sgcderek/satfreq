@@ -227,6 +227,15 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 HRIT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1691000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Elektro-L N3 GGAK</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1693000000</Frequency>
