@@ -17,6 +17,16 @@
             "broadcast": true
         },
         {
+            "name": "HRIT",
+            "description": "High Rate Image Transmission (every 3rd hour 12th minute)",
+            "frequency": 1691000000,
+            "bandwidth": 2300000,
+            "polarization": "RHC",
+            "modulation": "null",
+            "symrate": null,
+            "broadcast": true
+        },
+        {
             "name": "GGAK",
             "description": "GGAK-E sounder data",
             "frequency": 1693000000,
