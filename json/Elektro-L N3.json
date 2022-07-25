@@ -18,12 +18,12 @@
         },
         {
             "name": "HRIT",
-            "description": "High Rate Image Transmission (every 3rd hour 12th minute)",
+            "description": "High Rate Image Transmission of processed imager data",
             "frequency": 1691000000,
-            "bandwidth": 2300000,
+            "bandwidth": 2000000,
             "polarization": "RHC",
-            "modulation": "null",
-            "symrate": null,
+            "modulation": "OQPSK",
+            "symrate": 1150000,
             "broadcast": true
         },
         {
