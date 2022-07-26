@@ -1,7 +1,7 @@
 {
-    "name": "GOES-16",
+    "name": "GOES-17",
     "altnames": [
-        "GOES-R"
+        "GOES-S"
     ],
     "cospar": "2016-071A",
     "norad": 41866,
