@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>satfreq Viewer</title>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet" />
+    <style>
+        * {
+            margin: 0;
+        }
+        html, body, .divider {
+            height: 100%;
+        }
+        body {
+            font-family: 'Open Sans', sans-serif;
+            color: #C9D1D9;
+        }
+        a, a:visited {
+            color: rgb(88, 166, 255);
+        }
+        td, th {
+            box-sizing: border-box;
+            padding: 0.25em;
+        }
+
+        .divider {
+            display: flex;
+        }
+        nav, main {
+            padding: 1em;
+        }
+        nav {
+            background-color: rgb(22, 27, 34);
+            width: 25%;
+            min-width: 200px;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+            overflow-y: auto;
+        }
+        main {
+            background-color: rgb(13, 17, 23);
+            width: 100%;
+        }
+        footer {
+            flex-shrink: 0;
+        }
+
+
+        .starter {
+            display: flex;
+            height: 30%;
+            align-items: center;
+            justify-content: center;
+        }
+        .searchresults {
+            flex: 1;
+        }
+        a {
+          text-decoration:none;
+        }
+        table {
+          border-spacing: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="divider">
+        <nav>
+            <div class="starter"><a href="index.html"><h1>Back to database</h1></a></div>
+        </nav>
+        <main>
+          
+            <div class="starter"><h1>Download bookmarks</h1></div>
+            <div class="starter">
+            <br>
+            <table>
+              <tr>
+                <th>SDR#</th>
+                <th>SDR++</th>
+                <th>gqrx</th>
+              </tr>
+              <tr>
+                <td><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.rtl-sdr.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fsdrsharp_logo.png&f=1&nofb=1" width=100></td>
+                <td><img src="https://www.sdrpp.org/res/sdrpp.png" width=60></td>
+                <td><img src="https://github.com/gqrx-sdr/gqrx/blob/master/new_logo/PNG/vertical%20color.png?raw=true" width=75></td>
+              </tr>
+              <tr>
+                <td><a href="./bookmarks/sdrsharp.xml"><img src="download.png" width=50></a></td>
+                <td><a href="./bookmarks/sdrpp.json"><img src="download.png" width=50></td></a>
+                <td><a href="./bookmarks/gqrx.csv"><img src="download.png" width=50></a></td>
+              </tr>
+            </table>
+            </div>
+            
+        </main>
+    </div>
+</body>
+</html>
