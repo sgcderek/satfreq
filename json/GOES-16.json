@@ -33,7 +33,7 @@
             "bandwidth": 50000,
             "polarization": "V",
             "modulation": "BPSK",
-            "symrate": 00000,
+            "symrate": 40000,
             "broadcast": true
         }
     ]
