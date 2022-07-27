@@ -2,6 +2,123 @@
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-1</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137200000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-2</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137225000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-3</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137250000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-11</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137287500</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-12</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137312500</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-4</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137440000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-5</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137460000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM Gateway</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137560000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-6</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137662500</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-7</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137687500</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-8</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137712500</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-9</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137737500</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>ORBCOMM S-10</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137800000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>NOAA-19 APT</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>137100000</Frequency>

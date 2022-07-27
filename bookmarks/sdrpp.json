@@ -3,6 +3,71 @@
     "lists": {
         "satfreq": {
             "bookmarks": {
+                "ORBCOMM S-1": {
+                    "bandwidth": 0,
+                    "frequency": 137200000,
+                    "mode": 7
+                },
+                "ORBCOMM S-2": {
+                    "bandwidth": 0,
+                    "frequency": 137225000,
+                    "mode": 7
+                },
+                "ORBCOMM S-3": {
+                    "bandwidth": 0,
+                    "frequency": 137250000,
+                    "mode": 7
+                },
+                "ORBCOMM S-11": {
+                    "bandwidth": 0,
+                    "frequency": 137287500,
+                    "mode": 7
+                },
+                "ORBCOMM S-12": {
+                    "bandwidth": 0,
+                    "frequency": 137312500,
+                    "mode": 7
+                },
+                "ORBCOMM S-4": {
+                    "bandwidth": 0,
+                    "frequency": 137440000,
+                    "mode": 7
+                },
+                "ORBCOMM S-5": {
+                    "bandwidth": 0,
+                    "frequency": 137460000,
+                    "mode": 7
+                },
+                "ORBCOMM Gateway": {
+                    "bandwidth": 0,
+                    "frequency": 137560000,
+                    "mode": 7
+                },
+                "ORBCOMM S-6": {
+                    "bandwidth": 0,
+                    "frequency": 137662500,
+                    "mode": 7
+                },
+                "ORBCOMM S-7": {
+                    "bandwidth": 0,
+                    "frequency": 137687500,
+                    "mode": 7
+                },
+                "ORBCOMM S-8": {
+                    "bandwidth": 0,
+                    "frequency": 137712500,
+                    "mode": 7
+                },
+                "ORBCOMM S-9": {
+                    "bandwidth": 0,
+                    "frequency": 137737500,
+                    "mode": 7
+                },
+                "ORBCOMM S-10": {
+                    "bandwidth": 0,
+                    "frequency": 137800000,
+                    "mode": 7
+                },
                 "NOAA-19 APT": {
                     "bandwidth": 0,
                     "frequency": 137100000,

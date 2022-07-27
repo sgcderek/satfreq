@@ -1,0 +1,138 @@
+{
+    "name": "ORBCOMM",
+    "altnames": [],
+    "cospar": null,
+    "norad": null,
+    "downlinks": [
+        {
+            "name": "S-1",
+            "description": "Subscriber data downlink channel 1",
+            "frequency": 137200000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-2",
+            "description": "Subscriber data downlink channel 2",
+            "frequency": 137225000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-3",
+            "description": "Subscriber data downlink channel 3",
+            "frequency": 137250000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-11",
+            "description": "Subscriber data downlink channel 11",
+            "frequency": 137287500,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-12",
+            "description": "Subscriber data downlink channel 12",
+            "frequency": 137312500,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-4",
+            "description": "Subscriber data downlink channel 4",
+            "frequency": 137440000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-5",
+            "description": "Subscriber data downlink channel 5",
+            "frequency": 137460000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "Gateway",
+            "description": "Gateway data downlink",
+            "frequency": 137560000,
+            "bandwidth": 40000,
+            "polarization": "RHC",
+            "modulation": "OQPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-6",
+            "description": "Subscriber data downlink channel 6",
+            "frequency": 137662500,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-7",
+            "description": "Subscriber data downlink channel 7",
+            "frequency": 137687500,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-8",
+            "description": "Subscriber data downlink channel 8",
+            "frequency": 137712500,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-9",
+            "description": "Subscriber data downlink channel 9",
+            "frequency": 137737500,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        },
+        {
+            "name": "S-10",
+            "description": "Subscriber data downlink channel 10",
+            "frequency": 137800000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "SDPSK",
+            "symrate": 4800,
+            "broadcast": true
+        }
+    ]
+}
