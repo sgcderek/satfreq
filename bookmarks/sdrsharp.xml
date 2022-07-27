@@ -344,6 +344,15 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>Meteor-M N2-2 S&amp;R PDS</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Meteor-M N2-2 S&amp;R TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1544500000</Frequency>

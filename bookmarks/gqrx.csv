@@ -38,6 +38,7 @@ satfreq; #58A6FF
 1676000000; GOES-13 Imager SD; Demod Off; 0; satfreq
 1676000000; GOES-13 Sounder SD; Demod Off; 0; satfreq
 1685700000; GOES-13 PDR/GVAR; Demod Off; 0; satfreq
+1544500000; Meteor-M N2-2 S&R PDS; Demod Off; 0; satfreq
 1544500000; Meteor-M N2-2 S&R TRSP; Demod Off; 0; satfreq
 1700000000; Meteor-M N2-2 HRPT; Demod Off; 0; satfreq
 1698400000; ANGELS DCS; Demod Off; 0; satfreq

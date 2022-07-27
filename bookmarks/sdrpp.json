@@ -178,6 +178,11 @@
                     "frequency": 1685700000,
                     "mode": 7
                 },
+                "Meteor-M N2-2 S&R PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
                 "Meteor-M N2-2 S&R TRSP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
