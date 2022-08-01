@@ -42,6 +42,10 @@ satfreq; #58A6FF
 1693000000; Elektro-L N3 GGAK; Demod Off; 0; satfreq
 1697000000; Elektro-L N3 DCP; Demod Off; 0; satfreq
 7500000000; Elektro-L N3 RDAS; Demod Off; 0; satfreq
+4507000000; INSAT-3D S&R TRSP; Demod Off; 0; satfreq
+4506050000; INSAT-3D DRT; Demod Off; 0; satfreq
+4781000000; INSAT-3D Imager; Demod Off; 0; satfreq
+4798000000; INSAT-3D Sounder; Demod Off; 0; satfreq
 10489750000; Es'Hail-2 NB TRSP; Demod Off; 0; satfreq
 10503000000; Es'Hail-2 WB TRSP; Demod Off; 0; satfreq
 1687500000; FengYun-2H S-VISSR; Demod Off; 0; satfreq

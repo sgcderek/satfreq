@@ -380,6 +380,42 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3D S&amp;R TRSP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4507000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3D DRT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4506050000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3D Imager</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4781000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3D Sounder</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4798000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>Es'Hail-2 NB TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>10489750000</Frequency>

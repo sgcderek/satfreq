@@ -198,6 +198,26 @@
                     "frequency": 7500000000,
                     "mode": 7
                 },
+                "INSAT-3D S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 4507000000,
+                    "mode": 7
+                },
+                "INSAT-3D DRT": {
+                    "bandwidth": 0,
+                    "frequency": 4506050000,
+                    "mode": 7
+                },
+                "INSAT-3D Imager": {
+                    "bandwidth": 0,
+                    "frequency": 4781000000,
+                    "mode": 7
+                },
+                "INSAT-3D Sounder": {
+                    "bandwidth": 0,
+                    "frequency": 4798000000,
+                    "mode": 7
+                },
                 "Es'Hail-2 NB TRSP": {
                     "bandwidth": 0,
                     "frequency": 10489750000,
