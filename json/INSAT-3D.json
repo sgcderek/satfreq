@@ -1,0 +1,48 @@
+{
+    "name": "INSAT-3D",
+    "altnames": [],
+    "cospar": "2013-038B",
+    "norad": 39216,
+    "downlinks": [
+        {
+            "name": "S&R TRSP",
+            "description": "Search and Rescue Transponder",
+            "frequency": 4507000000,
+            "bandwidth": 400000,
+            "polarization": "LIN",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
+            "name": "DRT",
+            "description": "Data Relay Transponder",
+            "frequency": 4506050000,
+            "bandwidth": 250000,
+            "polarization": "LIN",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
+            "name": "Imager",
+            "description": "Raw imager data downlink",
+            "frequency": 4781000000,
+            "bandwidth": 5000000,
+            "polarization": "LIN",
+            "modulation": "BPSK",
+            "symrate": 3927250,
+            "broadcast": true
+        },
+        {
+            "name": "Sounder",
+            "description": "Raw sounder data downlink",
+            "frequency": 4798000000,
+            "bandwidth": 60000,
+            "polarization": "LIN",
+            "modulation": "BPSK",
+            "symrate": 40000,
+            "broadcast": true
+        }
+    ]
+}
