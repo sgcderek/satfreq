@@ -1,0 +1,40 @@
+{
+    "name": "GOES-16",
+    "altnames": [
+        "GOES-R"
+    ],
+    "cospar": "2016-071A",
+    "norad": 41866,
+    "downlinks": [
+        {
+            "name": "Raw Data Link",
+            "description": "Raw imager data downlink",
+            "frequency": 8220000000,
+            "bandwidth": 60000000,
+            "polarization": "V",
+            "modulation": "QPSK",
+            "symrate": 60000000,
+            "broadcast": true
+        },
+        {
+            "name": "HRIT",
+            "description": "Processed products to users",
+            "frequency": 1694100000,
+            "bandwidth": 1000000,
+            "polarization": "V",
+            "modulation": "BPSK",
+            "symrate": 927000,
+            "broadcast": true
+        },
+        {
+            "name": "CDA",
+            "description": "Raw engineering telemetry",
+            "frequency": 1693000000,
+            "bandwidth": 50000,
+            "polarization": "V",
+            "modulation": "BPSK",
+            "symrate": 40000,
+            "broadcast": true
+        }
+    ]
+}

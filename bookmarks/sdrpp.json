@@ -3,6 +3,311 @@
     "lists": {
         "satfreq": {
             "bookmarks": {
+                "Arktika-M N1 RDAS": {
+                    "bandwidth": 0,
+                    "frequency": 7865000000,
+                    "mode": 7
+                },
+                "PROBA-2 PD": {
+                    "bandwidth": 0,
+                    "frequency": 2235000000,
+                    "mode": 7
+                },
+                "AQUA DB": {
+                    "bandwidth": 0,
+                    "frequency": 8160000000,
+                    "mode": 7
+                },
+                "Es'Hail-2 NB TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 10489750000,
+                    "mode": 7
+                },
+                "Es'Hail-2 WB TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 10503000000,
+                    "mode": 7
+                },
+                "AURA DB": {
+                    "bandwidth": 0,
+                    "frequency": 8160000000,
+                    "mode": 7
+                },
+                "ISS Crew Voice": {
+                    "bandwidth": 0,
+                    "frequency": 145800000,
+                    "mode": 7
+                },
+                "ISS SSTV": {
+                    "bandwidth": 0,
+                    "frequency": 145800000,
+                    "mode": 7
+                },
+                "ISS APRS": {
+                    "bandwidth": 0,
+                    "frequency": 437550000,
+                    "mode": 7
+                },
+                "ISS V/U TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 437800000,
+                    "mode": 7
+                },
+                "GOES-13 Imager SD": {
+                    "bandwidth": 0,
+                    "frequency": 1676000000,
+                    "mode": 7
+                },
+                "GOES-13 Sounder SD": {
+                    "bandwidth": 0,
+                    "frequency": 1676000000,
+                    "mode": 7
+                },
+                "GOES-13 PDR/GVAR": {
+                    "bandwidth": 0,
+                    "frequency": 1685700000,
+                    "mode": 7
+                },
+                "CloudSat CPR": {
+                    "bandwidth": 0,
+                    "frequency": 2217500000,
+                    "mode": 7
+                },
+                "Meteor-M N2-2 S&R PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "Meteor-M N2-2 S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "Meteor-M N2-2 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1700000000,
+                    "mode": 7
+                },
+                "INSAT-3D S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 4507000000,
+                    "mode": 7
+                },
+                "INSAT-3D DRT": {
+                    "bandwidth": 0,
+                    "frequency": 4506050000,
+                    "mode": 7
+                },
+                "INSAT-3D Imager": {
+                    "bandwidth": 0,
+                    "frequency": 4781000000,
+                    "mode": 7
+                },
+                "INSAT-3D Sounder": {
+                    "bandwidth": 0,
+                    "frequency": 4798000000,
+                    "mode": 7
+                },
+                "FengYun-2H S-VISSR": {
+                    "bandwidth": 0,
+                    "frequency": 1687500000,
+                    "mode": 7
+                },
+                "FengYun-2H TLM": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "NOAA-18 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137350000,
+                    "mode": 7
+                },
+                "NOAA-18 APT": {
+                    "bandwidth": 0,
+                    "frequency": 137912500,
+                    "mode": 7
+                },
+                "NOAA-18 S&R PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-18 S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-18 GAC": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "NOAA-18 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1707000000,
+                    "mode": 7
+                },
+                "PROBA-1 PD": {
+                    "bandwidth": 0,
+                    "frequency": 2235000000,
+                    "mode": 7
+                },
+                "Yunhai 1-02 Encrypted data": {
+                    "bandwidth": 0,
+                    "frequency": 1704000000,
+                    "mode": 7
+                },
+                "Coriolis WindSat": {
+                    "bandwidth": 0,
+                    "frequency": 2221500000,
+                    "mode": 7
+                },
+                "GOES-16 Raw Data Link": {
+                    "bandwidth": 0,
+                    "frequency": 8220000000,
+                    "mode": 7
+                },
+                "GOES-16 HRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1694100000,
+                    "mode": 7
+                },
+                "GOES-16 CDA": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 LRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1691000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 HRIT": {
+                    "bandwidth": 0,
+                    "frequency": 1691000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 GGAK": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 DCP": {
+                    "bandwidth": 0,
+                    "frequency": 1697000000,
+                    "mode": 7
+                },
+                "Elektro-L N3 RDAS": {
+                    "bandwidth": 0,
+                    "frequency": 7500000000,
+                    "mode": 7
+                },
+                "Elektro-L N2 GGAK": {
+                    "bandwidth": 0,
+                    "frequency": 1693000000,
+                    "mode": 7
+                },
+                "Elektro-L N2 DCP": {
+                    "bandwidth": 0,
+                    "frequency": 1697000000,
+                    "mode": 7
+                },
+                "Elektro-L N2 RDAS": {
+                    "bandwidth": 0,
+                    "frequency": 7500000000,
+                    "mode": 7
+                },
+                "NOAA-15 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137350000,
+                    "mode": 7
+                },
+                "NOAA-15 APT": {
+                    "bandwidth": 0,
+                    "frequency": 137620000,
+                    "mode": 7
+                },
+                "NOAA-15 S&R PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-15 S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-15 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "NOAA-19 APT": {
+                    "bandwidth": 0,
+                    "frequency": 137100000,
+                    "mode": 7
+                },
+                "NOAA-19 DSB": {
+                    "bandwidth": 0,
+                    "frequency": 137770000,
+                    "mode": 7
+                },
+                "NOAA-19 S&R PDS": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-19 S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "NOAA-19 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1698000000,
+                    "mode": 7
+                },
+                "NOAA-19 GAC": {
+                    "bandwidth": 0,
+                    "frequency": 1702500000,
+                    "mode": 7
+                },
+                "Meteor-M N2 LRPT": {
+                    "bandwidth": 0,
+                    "frequency": 137100000,
+                    "mode": 7
+                },
+                "Meteor-M N2 HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1700000000,
+                    "mode": 7
+                },
+                "MetOp-B S&R TRSP": {
+                    "bandwidth": 0,
+                    "frequency": 1544500000,
+                    "mode": 7
+                },
+                "MetOp-B HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1701300000,
+                    "mode": 7
+                },
+                "MetOp-C HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 1701300000,
+                    "mode": 7
+                },
+                "SARAL DCS": {
+                    "bandwidth": 0,
+                    "frequency": 1698400000,
+                    "mode": 7
+                },
+                "ANGELS DCS": {
+                    "bandwidth": 0,
+                    "frequency": 1698400000,
+                    "mode": 7
+                },
                 "ORBCOMM S-1": {
                     "bandwidth": 0,
                     "frequency": 137200000,
@@ -68,174 +373,9 @@
                     "frequency": 137800000,
                     "mode": 7
                 },
-                "NOAA-19 APT": {
+                "FengYun-3C HRPT": {
                     "bandwidth": 0,
-                    "frequency": 137100000,
-                    "mode": 7
-                },
-                "NOAA-19 DSB": {
-                    "bandwidth": 0,
-                    "frequency": 137770000,
-                    "mode": 7
-                },
-                "NOAA-19 S&R PDS": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "NOAA-19 S&R TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "NOAA-19 HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1698000000,
-                    "mode": 7
-                },
-                "NOAA-19 GAC": {
-                    "bandwidth": 0,
-                    "frequency": 1702500000,
-                    "mode": 7
-                },
-                "MetOp-C HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1701300000,
-                    "mode": 7
-                },
-                "SARAL DCS": {
-                    "bandwidth": 0,
-                    "frequency": 1698400000,
-                    "mode": 7
-                },
-                "Elektro-L N2 GGAK": {
-                    "bandwidth": 0,
-                    "frequency": 1693000000,
-                    "mode": 7
-                },
-                "Elektro-L N2 DCP": {
-                    "bandwidth": 0,
-                    "frequency": 1697000000,
-                    "mode": 7
-                },
-                "Elektro-L N2 RDAS": {
-                    "bandwidth": 0,
-                    "frequency": 7500000000,
-                    "mode": 7
-                },
-                "MetOp-B S&R TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "MetOp-B HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1701300000,
-                    "mode": 7
-                },
-                "Coriolis WindSat": {
-                    "bandwidth": 0,
-                    "frequency": 2221500000,
-                    "mode": 7
-                },
-                "Yunhai 1-02 Encrypted data": {
-                    "bandwidth": 0,
-                    "frequency": 1704000000,
-                    "mode": 7
-                },
-                "ISS Crew Voice": {
-                    "bandwidth": 0,
-                    "frequency": 145800000,
-                    "mode": 7
-                },
-                "ISS SSTV": {
-                    "bandwidth": 0,
-                    "frequency": 145800000,
-                    "mode": 7
-                },
-                "ISS APRS": {
-                    "bandwidth": 0,
-                    "frequency": 437550000,
-                    "mode": 7
-                },
-                "ISS V/U TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 437800000,
-                    "mode": 7
-                },
-                "AURA DB": {
-                    "bandwidth": 0,
-                    "frequency": 8160000000,
-                    "mode": 7
-                },
-                "AQUA DB": {
-                    "bandwidth": 0,
-                    "frequency": 8160000000,
-                    "mode": 7
-                },
-                "Elektro-L N3 LRIT": {
-                    "bandwidth": 0,
-                    "frequency": 1691000000,
-                    "mode": 7
-                },
-                "Elektro-L N3 HRIT": {
-                    "bandwidth": 0,
-                    "frequency": 1691000000,
-                    "mode": 7
-                },
-                "Elektro-L N3 GGAK": {
-                    "bandwidth": 0,
-                    "frequency": 1693000000,
-                    "mode": 7
-                },
-                "Elektro-L N3 DCP": {
-                    "bandwidth": 0,
-                    "frequency": 1697000000,
-                    "mode": 7
-                },
-                "Elektro-L N3 RDAS": {
-                    "bandwidth": 0,
-                    "frequency": 7500000000,
-                    "mode": 7
-                },
-                "INSAT-3D S&R TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 4507000000,
-                    "mode": 7
-                },
-                "INSAT-3D DRT": {
-                    "bandwidth": 0,
-                    "frequency": 4506050000,
-                    "mode": 7
-                },
-                "INSAT-3D Imager": {
-                    "bandwidth": 0,
-                    "frequency": 4781000000,
-                    "mode": 7
-                },
-                "INSAT-3D Sounder": {
-                    "bandwidth": 0,
-                    "frequency": 4798000000,
-                    "mode": 7
-                },
-                "Es'Hail-2 NB TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 10489750000,
-                    "mode": 7
-                },
-                "Es'Hail-2 WB TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 10503000000,
-                    "mode": 7
-                },
-                "FengYun-2H S-VISSR": {
-                    "bandwidth": 0,
-                    "frequency": 1687500000,
-                    "mode": 7
-                },
-                "FengYun-2H TLM": {
-                    "bandwidth": 0,
-                    "frequency": 1702500000,
+                    "frequency": 1701400000,
                     "mode": 7
                 },
                 "Yunhai 1 Encrypted data": {
@@ -243,124 +383,14 @@
                     "frequency": 1704000000,
                     "mode": 7
                 },
-                "FengYun-3C HRPT": {
+                "GOES-17 HRIT": {
                     "bandwidth": 0,
-                    "frequency": 1701400000,
+                    "frequency": 1694100000,
                     "mode": 7
                 },
-                "GOES-13 Imager SD": {
+                "GOES-17 CDA": {
                     "bandwidth": 0,
-                    "frequency": 1676000000,
-                    "mode": 7
-                },
-                "GOES-13 Sounder SD": {
-                    "bandwidth": 0,
-                    "frequency": 1676000000,
-                    "mode": 7
-                },
-                "GOES-13 PDR/GVAR": {
-                    "bandwidth": 0,
-                    "frequency": 1685700000,
-                    "mode": 7
-                },
-                "Meteor-M N2-2 S&R PDS": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "Meteor-M N2-2 S&R TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "Meteor-M N2-2 HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1700000000,
-                    "mode": 7
-                },
-                "ANGELS DCS": {
-                    "bandwidth": 0,
-                    "frequency": 1698400000,
-                    "mode": 7
-                },
-                "CloudSat CPR": {
-                    "bandwidth": 0,
-                    "frequency": 2217500000,
-                    "mode": 7
-                },
-                "NOAA-15 DSB": {
-                    "bandwidth": 0,
-                    "frequency": 137350000,
-                    "mode": 7
-                },
-                "NOAA-15 APT": {
-                    "bandwidth": 0,
-                    "frequency": 137620000,
-                    "mode": 7
-                },
-                "NOAA-15 S&R PDS": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "NOAA-15 S&R TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "NOAA-15 HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1702500000,
-                    "mode": 7
-                },
-                "NOAA-18 DSB": {
-                    "bandwidth": 0,
-                    "frequency": 137350000,
-                    "mode": 7
-                },
-                "NOAA-18 APT": {
-                    "bandwidth": 0,
-                    "frequency": 137912500,
-                    "mode": 7
-                },
-                "NOAA-18 S&R PDS": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "NOAA-18 S&R TRSP": {
-                    "bandwidth": 0,
-                    "frequency": 1544500000,
-                    "mode": 7
-                },
-                "NOAA-18 GAC": {
-                    "bandwidth": 0,
-                    "frequency": 1702500000,
-                    "mode": 7
-                },
-                "NOAA-18 HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1707000000,
-                    "mode": 7
-                },
-                "Meteor-M N2 LRPT": {
-                    "bandwidth": 0,
-                    "frequency": 137100000,
-                    "mode": 7
-                },
-                "Meteor-M N2 HRPT": {
-                    "bandwidth": 0,
-                    "frequency": 1700000000,
-                    "mode": 7
-                },
-                "PROBA-1 PD": {
-                    "bandwidth": 0,
-                    "frequency": 2235000000,
-                    "mode": 7
-                },
-                "PROBA-2 PD": {
-                    "bandwidth": 0,
-                    "frequency": 2235000000,
+                    "frequency": 1693000000,
                     "mode": 7
                 }
             },

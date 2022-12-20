@@ -1,0 +1,30 @@
+{
+    "name": "GOES-17",
+    "altnames": [
+        "GOES-S"
+    ],
+    "cospar": "2018-022A",
+    "norad": 43226,
+    "downlinks": [
+        {
+            "name": "HRIT",
+            "description": "Processed products to users",
+            "frequency": 1694100000,
+            "bandwidth": 1000000,
+            "polarization": "V",
+            "modulation": "BPSK",
+            "symrate": 927000,
+            "broadcast": true
+        },
+        {
+            "name": "CDA",
+            "description": "Raw engineering telemetry",
+            "frequency": 1693000000,
+            "bandwidth": 50000,
+            "polarization": "V",
+            "modulation": "BPSK",
+            "symrate": 40000,
+            "broadcast": true
+        }
+    ]
+}
