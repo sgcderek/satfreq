@@ -1,14 +1,14 @@
 {
-    "name": "Arktika-M1",
+    "name": "Arktika-M N1",
     "altnames": [
-        "Arktica M"
+        "Arktica-M1"
     ],
-    "cospar": "0000-000A",
+    "cospar": "2021-016A",
     "norad": 47719,
     "downlinks": [
         {
-            "name": "Raw Data Link (RDAS)",
-            "description": "Raw imager data downlink",
+            "name": "RDAS",
+            "description": "Raw imager downlink",
             "frequency": 7865000000,
             "bandwidth": 40000000,
             "polarization": "V",
