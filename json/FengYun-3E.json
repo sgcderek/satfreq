@@ -1,0 +1,20 @@
+{
+    "name": "FengYun-3E",
+    "altnames": [
+        "FY-3E"
+    ],
+    "cospar": "2021-063A",
+    "norad": 49008,
+    "downlinks": [
+        {
+            "name": "HRPT",
+            "description": "Real time High Resolution Picture Transmission of select imager and sounder data",
+            "frequency": 7860000000,
+            "bandwidth": 64000000,
+            "polarization": "RHC",
+            "modulation": "QPSK",
+            "symrate": 38400000,
+            "broadcast": true
+        }
+    ]
+}

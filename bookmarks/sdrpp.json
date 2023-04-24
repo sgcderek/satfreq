@@ -38,6 +38,11 @@
                     "frequency": 1701300000,
                     "mode": 7
                 },
+                "FengYun-3D HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 7820000000,
+                    "mode": 7
+                },
                 "INSAT-3D S&R TRSP": {
                     "bandwidth": 0,
                     "frequency": 4507000000,
@@ -108,6 +113,11 @@
                     "frequency": 1698400000,
                     "mode": 7
                 },
+                "FengYun-3E HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 7860000000,
+                    "mode": 7
+                },
                 "FengYun-2H S-VISSR": {
                     "bandwidth": 0,
                     "frequency": 1687500000,
@@ -116,6 +126,11 @@
                 "FengYun-2H TLM": {
                     "bandwidth": 0,
                     "frequency": 1702500000,
+                    "mode": 7
+                },
+                "FengYun-3G HRPT": {
+                    "bandwidth": 0,
+                    "frequency": 7790000000,
                     "mode": 7
                 },
                 "Yunhai 1 Encrypted data": {

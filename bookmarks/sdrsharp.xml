@@ -65,6 +65,15 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-3D HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7820000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>INSAT-3D S&amp;R TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>4507000000</Frequency>
@@ -191,6 +200,15 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-3E HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7860000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>FengYun-2H S-VISSR</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1687500000</Frequency>
@@ -203,6 +221,15 @@
 		<Name>FengYun-2H TLM</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1702500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-3G HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7790000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>

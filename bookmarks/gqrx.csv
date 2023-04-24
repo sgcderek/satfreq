@@ -7,6 +7,7 @@ satfreq; #58A6FF
 1697000000; Elektro-L N3 DCP; Demod Off; 0; satfreq
 7500000000; Elektro-L N3 RDAS; Demod Off; 0; satfreq
 1701300000; MetOp-C HRPT; Demod Off; 0; satfreq
+7820000000; FengYun-3D HRPT; Demod Off; 0; satfreq
 4507000000; INSAT-3D S&R TRSP; Demod Off; 0; satfreq
 4506050000; INSAT-3D DRT; Demod Off; 0; satfreq
 4781000000; INSAT-3D Imager; Demod Off; 0; satfreq
@@ -21,8 +22,10 @@ satfreq; #58A6FF
 1544500000; Meteor-M N2-2 S&R TRSP; Demod Off; 0; satfreq
 1700000000; Meteor-M N2-2 HRPT; Demod Off; 0; satfreq
 1698400000; SARAL DCS; Demod Off; 0; satfreq
+7860000000; FengYun-3E HRPT; Demod Off; 0; satfreq
 1687500000; FengYun-2H S-VISSR; Demod Off; 0; satfreq
 1702500000; FengYun-2H TLM; Demod Off; 0; satfreq
+7790000000; FengYun-3G HRPT; Demod Off; 0; satfreq
 1704000000; Yunhai 1 Encrypted data; Demod Off; 0; satfreq
 1704000000; Yunhai 1-02 Encrypted data; Demod Off; 0; satfreq
 137100000; Meteor-M N2 LRPT; Demod Off; 0; satfreq
