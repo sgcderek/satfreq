@@ -55,6 +55,16 @@
             "modulation": "BPSK",
             "symrate": 30720000,
             "broadcast": true
+        },
+        {
+            "name": "S&R TRSP",
+            "description": "Search and Rescue transponder",
+            "frequency": 1544500000,
+            "bandwidth": 300000,
+            "polarization": "LHCP",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
         }
     ]
 }

@@ -7,6 +7,16 @@
     "norad": 47719,
     "downlinks": [
         {
+            "name": "DCP",
+            "description": "Data Collection Platform transponder",
+            "frequency": 1697000000,
+            "bandwidth": 1000000,
+            "polarization": "LIN",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
             "name": "RDAS",
             "description": "Full imager/instrument downlink for the Raw Data Acquisition Station",
             "frequency": 7865000000,
@@ -14,6 +24,16 @@
             "polarization": "V",
             "modulation": "BPSK",
             "symrate": 30720000,
+            "broadcast": true
+        },
+        {
+            "name": "S&R TRSP",
+            "description": "Search and Rescue transponder",
+            "frequency": 1544500000,
+            "bandwidth": 300000,
+            "polarization": "LHCP",
+            "modulation": null,
+            "symrate": null,
             "broadcast": true
         }
     ]

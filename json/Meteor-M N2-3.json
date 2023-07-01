@@ -1,0 +1,41 @@
+{
+    "name": "Meteor-M N2-3",
+    "altnames": [
+        "Meteor-M 2-3",
+        "Meteor M2-3"
+    ],
+    "cospar": "2023-091A",
+    "norad": 57166,
+    "downlinks": [
+        {
+            "name": "S&R PDS",
+            "description": "Search and Rescue Processed Data Stream",
+            "frequency": 1544500000,
+            "bandwidth": 10000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 2400,
+            "broadcast": true
+        },
+        {
+            "name": "S&R TRSP",
+            "description": "Search and Rescue Transponder",
+            "frequency": 1544500000,
+            "bandwidth": 450000,
+            "polarization": "RHC",
+            "modulation": null,
+            "symrate": null,
+            "broadcast": true
+        },
+        {
+            "name": "HRPT",
+            "description": "Real time High Resolution Picture Transmission of select imager and sounder data",
+            "frequency": 1700000000,
+            "bandwidth": 3000000,
+            "polarization": "RHC",
+            "modulation": "BPSK",
+            "symrate": 665400,
+            "broadcast": true
+        }
+    ]
+}

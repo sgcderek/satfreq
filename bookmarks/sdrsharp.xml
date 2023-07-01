@@ -2,78 +2,6 @@
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>CloudSat CPR</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>2217500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N3 LRIT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1691000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N3 HRIT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1691000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N3 GGAK</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1693000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N3 DCP</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1697000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N3 RDAS</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>7500000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>MetOp-C HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1701300000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>FengYun-3D HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>7820000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
 		<Name>INSAT-3D S&amp;R TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>4507000000</Frequency>
@@ -110,25 +38,52 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 APT</Name>
+		<Name>GOES-16 Raw Data Link</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>137100000</Frequency>
+		<Frequency>8220000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 DSB</Name>
+		<Name>GOES-16 HRIT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>137770000</Frequency>
+		<Frequency>1694100000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 S&amp;R PDS</Name>
+		<Name>GOES-16 CDA</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1693000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Arktika-M N1 DCP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1697000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Arktika-M N1 RDAS</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7865000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Arktika-M N1 S&amp;R TRSP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
@@ -137,7 +92,7 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 S&amp;R TRSP</Name>
+		<Name>Meteor-M N2-3 S&amp;R PDS</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
@@ -146,18 +101,108 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 HRPT</Name>
+		<Name>Meteor-M N2-3 S&amp;R TRSP</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1698000000</Frequency>
+		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-19 GAC</Name>
+		<Name>Meteor-M N2-3 HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1700000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-15 DSB</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137350000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-15 APT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137620000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-15 S&amp;R PDS</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-15 S&amp;R TRSP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-15 HRPT</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1702500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-17 HRIT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1694100000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-17 CDA</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1693000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>CloudSat CPR</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>2217500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>MetOp-B S&amp;R TRSP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>MetOp-B HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1701300000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
@@ -191,81 +236,54 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>SARAL DCS</Name>
+		<Name>Elektro-L N2 GGAK</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1698400000</Frequency>
+		<Frequency>1693000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>FengYun-3E HRPT</Name>
+		<Name>Elektro-L N2 DCP</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>7860000000</Frequency>
+		<Frequency>1697000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>FengYun-2H S-VISSR</Name>
+		<Name>Elektro-L N2 RDAS</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1687500000</Frequency>
+		<Frequency>7500000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>FengYun-2H TLM</Name>
+		<Name>Elektro-L N2 S&amp;R TRSP</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1702500000</Frequency>
+		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>FengYun-3G HRPT</Name>
+		<Name>PROBA-1 PD</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>7790000000</Frequency>
+		<Frequency>2235000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>Yunhai 1 Encrypted data</Name>
+		<Name>MetOp-C HRPT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>1704000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Yunhai 1-02 Encrypted data</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1704000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Meteor-M N2 LRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>137100000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Meteor-M N2 HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1700000000</Frequency>
+		<Frequency>1701300000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
@@ -389,9 +407,243 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-3C HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1701400000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-2H S-VISSR</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1687500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-2H TLM</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1702500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>PROBA-2 PD</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>2235000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-3E HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7860000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-19 APT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137100000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-19 DSB</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137770000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-19 S&amp;R PDS</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-19 S&amp;R TRSP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-19 HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1698000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-19 GAC</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1702500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>FengYun-3D HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7820000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Meteor-M N2 LRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>137100000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Meteor-M N2 HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1700000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Coriolis WindSat</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>2221500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>SARAL DCS</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1698400000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Yunhai 1 Encrypted data</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1704000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-13 Imager SD</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1676000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-13 Sounder SD</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1676000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>GOES-13 PDR/GVAR</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1685700000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>ANGELS DCS</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1698400000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 LRIT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1691000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 HRIT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1691000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 GGAK</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1693000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 DCP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1697000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 RDAS</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>7500000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Elektro-L N3 S&amp;R TRSP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
@@ -416,72 +668,9 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 DSB</Name>
+		<Name>FengYun-3G HRPT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>137350000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 APT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>137912500</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 S&amp;R PDS</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1544500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 S&amp;R TRSP</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1544500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 GAC</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1698000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 GAC</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1702500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-18 HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1707000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Arktika-M N1 RDAS</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>7865000000</Frequency>
+		<Frequency>7790000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
@@ -491,6 +680,15 @@
 		<Name>AQUA DB</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>8160000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>Yunhai 1-02 Encrypted data</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1704000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
@@ -560,124 +758,7 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>GOES-17 HRIT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1694100000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-17 CDA</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1693000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>PROBA-1 PD</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>2235000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-16 Raw Data Link</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>8220000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-16 HRIT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1694100000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-16 CDA</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1693000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-13 Imager SD</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1676000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-13 Sounder SD</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1676000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>GOES-13 PDR/GVAR</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1685700000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>PROBA-2 PD</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>2235000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N2 GGAK</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1693000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N2 DCP</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1697000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Elektro-L N2 RDAS</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>7500000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-15 DSB</Name>
+		<Name>NOAA-18 DSB</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>137350000</Frequency>
 		<DetectorType>RAW</DetectorType>
@@ -686,25 +767,16 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-15 APT</Name>
+		<Name>NOAA-18 APT</Name>
 		<GroupName>satfreq</GroupName>
-		<Frequency>137620000</Frequency>
+		<Frequency>137912500</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-15 S&amp;R PDS</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1544500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-15 S&amp;R TRSP</Name>
+		<Name>NOAA-18 S&amp;R PDS</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1544500000</Frequency>
 		<DetectorType>RAW</DetectorType>
@@ -713,9 +785,36 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>NOAA-15 HRPT</Name>
+		<Name>NOAA-18 S&amp;R TRSP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1544500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-18 GAC</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1698000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-18 GAC</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1702500000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>NOAA-18 HRPT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1707000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
@@ -725,42 +824,6 @@
 		<Name>AURA DB</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>8160000000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>Coriolis WindSat</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>2221500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>FengYun-3C HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1701400000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>MetOp-B S&amp;R TRSP</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1544500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>MetOp-B HRPT</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>1701300000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>
