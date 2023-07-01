@@ -9,7 +9,7 @@
     "downlinks": [
         {
             "name": "Imager SD",
-            "description": "Raw imager data downlink",
+            "description": "Raw imager sensor data downlink",
             "frequency": 1676000000,
             "bandwidth": 4500000,
             "polarization": "V",
@@ -19,7 +19,7 @@
         },
         {
             "name": "Sounder SD",
-            "description": "Raw sounder data downlink",
+            "description": "Raw sounder sensor data downlink",
             "frequency": 1676000000,
             "bandwidth": 60000,
             "polarization": "V",
