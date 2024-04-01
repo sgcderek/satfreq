@@ -47,6 +47,7 @@
         main {
             background-color: rgb(13, 17, 23);
             width: 100%;
+            overflow: auto;
         }
         footer {
             flex-shrink: 0;
@@ -87,6 +88,9 @@
         let fuse;
 
         function prefix_sps(val) {
+            if (val == null) {
+                return 'Unknown';
+            }
             if (val > 1000000) {
                 return val/1000000 + " msps";
             } else if (val > 1000) {
@@ -99,8 +103,8 @@
                 if (sat.name == ref.target.innerText) {
                     let content = `
 <h1>${sat.name}</h1><br/>
-<p>COSPAR: ${sat.cospar}</p>
-<p>NORAD: ${sat.norad}</p>
+<p>COSPAR: ${sat.cospar || 'N/A'}</p>
+<p>NORAD: ${sat.norad || 'N/A'}</p>
 <br/>
 <h2>Other names:</h2><ul>`;
                     if (sat.altnames.length == 0) {
@@ -129,10 +133,10 @@
 <td title="${downlink.description}">${downlink.name}</td>
 <td>${downlink.frequency/1000000 + " MHz"}</td>
 <td>${downlink.bandwidth/1000 + " KHz"}</td>
-<td>${downlink.polarization}</td>
-<td>${downlink.modulation}</td>
+<td>${downlink.polarization || 'Unknown'}</td>
+<td>${downlink.modulation || 'Unknown'}</td>
 <td>${prefix_sps(downlink.symrate)}</td>
-<td>${downlink.broadcast}</td>
+<td>${downlink.broadcast ? 'Yes' : 'No'}</td>
 </tr>`;
                     });
                     content += `
