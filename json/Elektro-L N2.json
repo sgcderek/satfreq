@@ -5,6 +5,7 @@
     ],
     "cospar": "2015-074A",
     "norad": 41105,
+	"icon": "Elektro-L.gif",
     "downlinks": [
         {
             "name": "GGAK",

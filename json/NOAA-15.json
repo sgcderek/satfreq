@@ -5,6 +5,7 @@
     ],
     "cospar": "1998-030A",
     "norad": 25338,
+	"icon": "POES.gif",
     "downlinks": [
         {
             "name": "DSB",

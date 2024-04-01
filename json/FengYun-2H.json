@@ -5,6 +5,7 @@
     ],
     "cospar": "2018-050A",
     "norad": 43491,
+	"icon": "FengYun-2.gif",
     "downlinks": [
         {
             "name": "S-VISSR",

@@ -5,6 +5,7 @@
     ],
     "cospar": "2018-087A",
     "norad": 43689,
+	"icon": "MetOp.gif",
     "downlinks": [
         {
             "name": "HRPT",

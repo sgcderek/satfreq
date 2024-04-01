@@ -5,6 +5,7 @@
     ],
     "cospar": "2019-095A",
     "norad": 44903,
+	"icon": "Elektro-L.gif",
     "downlinks": [
         {
             "name": "LRIT",

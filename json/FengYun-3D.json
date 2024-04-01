@@ -5,6 +5,7 @@
     ],
     "cospar": "2017-072A",
     "norad": 43010,
+	"icon": "FengYun-3.gif",
     "downlinks": [
         {
             "name": "HRPT",

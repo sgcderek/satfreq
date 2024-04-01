@@ -5,6 +5,7 @@
     ],
     "cospar": "2021-016A",
     "norad": 47719,
+	"icon": "Arktika-M.gif",
     "downlinks": [
         {
             "name": "DCP",

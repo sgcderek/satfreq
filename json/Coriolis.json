@@ -6,6 +6,7 @@
     ],
     "cospar": "2003-001A",
     "norad": 27640,
+	"icon": "Coriolis.gif",
     "downlinks": [
         {
             "name": "WindSat",

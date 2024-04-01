@@ -5,6 +5,7 @@
     ],
     "cospar": "2021-063A",
     "norad": 49008,
+	"icon": "FengYun-3EM.gif",
     "downlinks": [
         {
             "name": "HRPT",

@@ -5,6 +5,7 @@
     ],
     "cospar": "2012-049A",
     "norad": 38771,
+	"icon": "MetOp.gif",
     "downlinks": [
         {
             "name": "S&R TRSP",

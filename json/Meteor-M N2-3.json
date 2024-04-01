@@ -6,6 +6,7 @@
     ],
     "cospar": "2023-091A",
     "norad": 57166,
+	"icon": "Meteor-M.gif",
     "downlinks": [
         {
             "name": "S&R PDS",

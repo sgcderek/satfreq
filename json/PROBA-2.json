@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": "2009-059B",
     "norad": 36037,
+	"icon": "PROBA-2.gif",
     "downlinks": [
         {
             "name": "PD",

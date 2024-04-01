@@ -5,6 +5,7 @@
     ],
     "cospar": "1998-067A",
     "norad": 25544,
+	"icon": "ISS.gif",
     "downlinks": [
         {
             "name": "Crew Voice",
