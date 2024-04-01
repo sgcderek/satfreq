@@ -85,7 +85,6 @@
         }
         table, th, td {
             border: 1px solid white;
-            border-collapse: collapse;
         }
     </style>
     <script>
@@ -103,64 +102,45 @@
             }
         }
 
-        function showdata(ref) {
-            satfreq.forEach(sat => {
-                if (sat.name == ref.target.innerText) {
+        function showdata() {
                     let content = `
-<h1>${sat.name}</h1><br/>
-<img src="${'icons/' + (sat.icon || '_generic0.gif')}" alt="Icon">
-<p>COSPAR: ${sat.cospar || 'N/A'}</p>
-<p>NORAD: ${sat.norad || 'N/A'}</p>
-<br/>
-<h2>Other names:</h2><ul>`;
-                    if (sat.altnames.length == 0) {
-                        content += `<li>N/A</li>`;
-                    }
-                    sat.altnames.forEach(altname => {
-                        content += `<li>${altname}</li>`;
-                    });
-                    content += `
-</ul>
-<br/>
 <h2>Downlinks:</h2>
 <table>
 <tr>
-<th>Name</th>
+<th></th>
+<th>Satellite</th>
+<th>Downlink</th>
 <th>Frequency</th>
 <th>Bandwidth</th>
 <th>Polarization</th>
-<!-- <th>Modulation</th> -->
 <th>Symbol Rate</th>
-<!-- <th>Broadcast</th> -->
 </tr>`;
+                    satfreq.forEach(sat => {
                     sat.downlinks.forEach(downlink => {
                         content += `
 <tr>
+<td><img src="${'icons/' + (sat.icon || '_generic0.gif')}" alt="Icon"></td>
+<td>${sat.name}</td>
 <td title="${downlink.description}">${downlink.name}</td>
 <td>${downlink.frequency/1000000 + " MHz"}</td>
 <td>${downlink.bandwidth/1000 + " KHz"}</td>
 <td>${downlink.polarization || ''}</td>
-<!-- <td>${downlink.modulation || ''}</td> -->
 <td>${prefix_sps(downlink.symrate)}</td>
-<!-- <td>${downlink.broadcast ? 'Yes' : 'No'}</td> -->
 </tr>`;
+                    });
                     });
                     content += `
 </table><p><i>Hover over name to view description</i></p>`
                     document.querySelector("main").innerHTML = content;
                     return;
-                }
-            });
         }
 
         window.onload = function() {
-            document.querySelector(".search").value = "";
-            document.querySelector(".search").focus();
             let xhr = new XMLHttpRequest();
             xhr.open('GET', 'satfreq.json');
             xhr.send();
-
-            xhr.onload = function() {
+			
+			xhr.onload = function() {
                 if (xhr.status != 200) {
                     alert(`Error: unable to load satfreq.json, ${xhr.status} (${xhr.statusText})`);
                     return;
@@ -168,47 +148,20 @@
 
                 try {
                     satfreq = JSON.parse(xhr.responseText);
+					showdata();
                 } catch (e) {
                     alert(`Error: unable to load satfreq.json, ${e.name}`);
                     return;
                 }
-
-                const options = {
-                    keys: ['name', 'altnames']
-                };
-                fuse = new Fuse(satfreq, options);
-
-                document.querySelector(".search").oninput = function() {
-                    document.querySelector(".searchresults").innerHTML = "";
-                    if (document.querySelector(".search").value == "") {
-                        satfreq.forEach(sat => {
-                            document.querySelector(".searchresults").innerHTML += `<li>${sat.name}</li>`;
-                        });
-                    } else {
-                        const result = fuse.search(document.querySelector(".search").value);
-                        result.forEach(sat => {
-                            document.querySelector(".searchresults").innerHTML += `<li>${sat.item.name}</li>`;
-                        });
-                    }
-
-                    document.querySelectorAll(".searchresults li").forEach(button => {
-                        button.onclick = showdata;
-                    });
-                }
-                document.querySelector(".search").oninput();
-            };
+			};
         }
     </script>
 </head>
 <body>
     <div class="divider">
         <nav>
-            <input type="text" class="search" placeholder="Search..." />
-            <ul class="searchresults">
-
-            </ul>
             <footer>
-				<a href="all.html">List all transmitters</a><br/>
+				<a href="index.html">Single satellite search</a><br/>
                 <a href="https://github.com/sgcderek/satfreq">GitHub repository</a><br/>
                 <a href="json/">Raw JSON files</a><br/>
                 <a href="satfreq.json">Raw JSON catalogue</a><br/>
@@ -216,7 +169,7 @@
             </footer>
         </nav>
         <main>
-            <div class="starter"><h1>Search for a satellite to view details</h1></div>
+            h
         </main>
     </div>
 </body>
