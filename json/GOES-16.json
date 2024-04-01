@@ -5,6 +5,7 @@
     ],
     "cospar": "2016-071A",
     "norad": 41866,
+	"icon": "GOES-R.gif",
     "downlinks": [
         {
             "name": "Raw Data Link",

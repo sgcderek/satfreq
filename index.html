@@ -36,7 +36,7 @@
             padding: 1em;
         }
         nav {
-            background-color: rgb(22, 27, 34);
+            background-color: rgb(13, 17, 23);
             width: 25%;
             min-width: 200px;
             max-width: 600px;
@@ -46,7 +46,7 @@
             overflow-y: auto;
         }
         main {
-            background-color: rgb(13, 17, 23);
+            background-color: rgb(29, 35, 44);
             width: 100%;
             overflow: auto;
         }
@@ -83,6 +83,9 @@
         .searchresults {
             flex: 1;
         }
+		table, th, td {
+			border: 1px solid white;
+		}
     </style>
     <script>
         let satfreq;
@@ -90,7 +93,7 @@
 
         function prefix_sps(val) {
             if (val == null) {
-                return 'Unknown';
+                return '';
             }
             if (val > 1000000) {
                 return val/1000000 + " msps";
@@ -104,6 +107,7 @@
                 if (sat.name == ref.target.innerText) {
                     let content = `
 <h1>${sat.name}</h1><br/>
+<img src="${'icons/' + (sat.icon || '_generic0.gif')}" alt="Icon">
 <p>COSPAR: ${sat.cospar || 'N/A'}</p>
 <p>NORAD: ${sat.norad || 'N/A'}</p>
 <br/>
@@ -124,9 +128,9 @@
 <th>Frequency</th>
 <th>Bandwidth</th>
 <th>Polarization</th>
-<th>Modulation</th>
+<!-- <th>Modulation</th> -->
 <th>Symbol Rate</th>
-<th>Broadcast</th>
+<!-- <th>Broadcast</th> -->
 </tr>`;
                     sat.downlinks.forEach(downlink => {
                         content += `
@@ -134,10 +138,10 @@
 <td title="${downlink.description}">${downlink.name}</td>
 <td>${downlink.frequency/1000000 + " MHz"}</td>
 <td>${downlink.bandwidth/1000 + " KHz"}</td>
-<td>${downlink.polarization || 'Unknown'}</td>
-<td>${downlink.modulation || 'Unknown'}</td>
+<td>${downlink.polarization || ''}</td>
+<!-- <td>${downlink.modulation || ''}</td> -->
 <td>${prefix_sps(downlink.symrate)}</td>
-<td>${downlink.broadcast ? 'Yes' : 'No'}</td>
+<!-- <td>${downlink.broadcast ? 'Yes' : 'No'}</td> -->
 </tr>`;
                     });
                     content += `

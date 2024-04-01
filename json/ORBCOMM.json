@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": null,
     "norad": null,
+	"icon": "ORBCOMM.gif",
     "downlinks": [
         {
             "name": "S-1",

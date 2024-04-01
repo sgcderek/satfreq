@@ -6,6 +6,7 @@
     ],
     "cospar": "2006-018A",
     "norad": 29155,
+	"icon": "GOES-N.gif",
     "downlinks": [
         {
             "name": "Imager SD",

@@ -5,6 +5,7 @@
     ],
     "cospar": "2014-037A",
     "norad": 40069,
+	"icon": "Meteor-M.gif",
     "downlinks": [
         {
             "name": "LRPT",

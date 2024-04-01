@@ -6,6 +6,7 @@
     ],
     "cospar": "2009-005A",
     "norad": 33591,
+	"icon": "POES.gif",
     "downlinks": [
         {
             "name": "APT",

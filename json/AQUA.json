@@ -5,6 +5,7 @@
     ],
     "cospar": "2002-022A",
     "norad": 27424,
+	"icon": "Aqua.gif",
     "downlinks": [
         {
             "name": "DB",

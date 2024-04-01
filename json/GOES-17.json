@@ -5,6 +5,7 @@
     ],
     "cospar": "2018-022A",
     "norad": 43226,
+	"icon": "GOES-R.gif",
     "downlinks": [
         {
             "name": "HRIT",

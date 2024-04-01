@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": "2006-016A",
     "norad": 29107,
+	"icon": "Cloudsat.gif",
     "downlinks": [
         {
             "name": "CPR",
