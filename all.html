@@ -32,18 +32,8 @@
         .divider {
             display: flex;
         }
-        nav, main {
+         main {
             padding: 1em;
-        }
-        nav {
-            background-color: rgb(13, 17, 23);
-            width: 25%;
-            min-width: 200px;
-            max-width: 600px;
-            display: flex;
-            flex-direction: column;
-            box-sizing: border-box;
-            overflow-y: auto;
         }
         main {
             background-color: rgb(29, 35, 44);
@@ -54,37 +44,20 @@
             flex-shrink: 0;
         }
 
-        .search {
-            color: #C9D1D9;
-            line-height: 20px;
-            font-size: 14px;
-            box-sizing: border-box;
-            padding: 5px 12px;
-            background-color: rgb(13, 17, 23);
-            width: 100%;
-            border: 1px solid #30363d;
-            border-radius: 0.5em;
-            margin-bottom: 1em;
-        }
-        nav ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        nav li {
-            cursor: pointer;
-            padding: 0.5em 0;
-        }
         .starter {
             display: flex;
             height: 100%;
             align-items: center;
             justify-content: center;
         }
-        .searchresults {
-            flex: 1;
-        }
-        table, th, td {
+        table, td {
             border: 1px solid white;
+        }
+        th {
+            border: 2px solid white;
+            position: sticky;
+            top: -1rem;
+            background-color: rgb(29, 35, 44);
         }
     </style>
     <script>
@@ -104,9 +77,14 @@
 
         function showdata() {
                     let content = `
+<a href="index.html">Single satellite search</a><br/>
+<a href="https://github.com/sgcderek/satfreq">GitHub repository</a><br/>
+<a href="json/">Raw JSON files</a><br/>
+<a href="satfreq.json">Raw JSON catalogue</a><br/>
+<a href="bookmarks/">SDR bookmarks</a><br/>
 <h2>Downlinks:</h2>
 <table>
-<tr>
+<tr position="sticky">
 <th></th>
 <th>Satellite</th>
 <th>Downlink</th>
@@ -129,8 +107,6 @@
 </tr>`;
                     });
                     });
-                    content += `
-</table><p><i>Hover over name to view description</i></p>`
                     document.querySelector("main").innerHTML = content;
                     return;
         }
@@ -161,11 +137,7 @@
     <div class="divider">
         <nav>
             <footer>
-				<a href="index.html">Single satellite search</a><br/>
-                <a href="https://github.com/sgcderek/satfreq">GitHub repository</a><br/>
-                <a href="json/">Raw JSON files</a><br/>
-                <a href="satfreq.json">Raw JSON catalogue</a><br/>
-                <a href="bookmarks/">SDR bookmarks</a><br/>
+
             </footer>
         </nav>
         <main>
