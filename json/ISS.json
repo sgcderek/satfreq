@@ -62,7 +62,7 @@
             "symrate": 1200
         },
         {
-            "name": "V/U TRSP",
+            "name": "V/U TP",
             "description": "Mode V/U amateur FM transponder",
             "frequency": 437800000,
             "bandwidth": 20000,

@@ -8,6 +8,11 @@
 	"icon": "Aqua.gif",
     "downlinks": [
         {
+            "name": "TM",
+            "description": "Spacecraft telemetry",
+            "frequency": 2287500000
+        },
+        {
             "name": "DB",
             "description": "Direct Broadcast of real time imager and sounder data",
             "frequency": 8160000000,

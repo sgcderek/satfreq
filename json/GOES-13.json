@@ -9,8 +9,8 @@
 	"icon": "GOES-N.gif",
     "downlinks": [
         {
-            "name": "Imager SD",
-            "description": "Raw imager sensor data downlink",
+            "name": "SD (Imager)",
+            "description": "Raw imager Sensor Data downlink",
             "frequency": 1676000000,
             "bandwidth": 4500000,
             "polarization": "V",
@@ -19,8 +19,8 @@
             "broadcast": true
         },
         {
-            "name": "Sounder SD",
-            "description": "Raw sounder sensor data downlink",
+            "name": "SD (Sounder)",
+            "description": "Raw sounder Sensor Data downlink",
             "frequency": 1676000000,
             "bandwidth": 60000,
             "polarization": "V",
@@ -29,7 +29,7 @@
             "broadcast": true
         },
         {
-            "name": "PDR/GVAR",
+            "name": "PDR",
             "description": "Processed Data Relay for GOES Variable imagery",
             "frequency": 1685700000,
             "bandwidth": 3500000,

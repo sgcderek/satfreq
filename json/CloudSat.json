@@ -6,8 +6,8 @@
 	"icon": "Cloudsat.gif",
     "downlinks": [
         {
-            "name": "CPR",
-            "description": "Playback of stored Cloud Profiling Radar data",
+            "name": "Payload data",
+            "description": "Stored data playback to ground station",
             "frequency": 2217500000,
             "bandwidth": 1500000,
             "polarization": "RHC",
