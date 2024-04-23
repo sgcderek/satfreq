@@ -39,7 +39,7 @@
             "broadcast": true
         },
         {
-            "name": "S&R TRSP",
+            "name": "S&R TP",
             "description": "Search and Rescue Transponder",
             "frequency": 1544500000,
             "bandwidth": 450000,

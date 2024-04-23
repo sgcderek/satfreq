@@ -9,7 +9,7 @@
     "downlinks": [
         {
             "name": "DCP",
-            "description": "Data Collection Platform transponder",
+            "description": "Analog Data Collection Platform transponder",
             "frequency": 1697000000,
             "bandwidth": 1000000,
             "polarization": "LIN",
@@ -18,7 +18,7 @@
             "broadcast": true
         },
         {
-            "name": "RDAS",
+            "name": "RDAS data",
             "description": "Full imager/instrument downlink for the Raw Data Acquisition Station",
             "frequency": 7865000000,
             "bandwidth": 40000000,
@@ -28,8 +28,8 @@
             "broadcast": true
         },
         {
-            "name": "S&R TRSP",
-            "description": "Search and Rescue transponder",
+            "name": "S&R TP",
+            "description": "Search and Rescue Transponder",
             "frequency": 1544500000,
             "bandwidth": 300000,
             "polarization": "LHCP",

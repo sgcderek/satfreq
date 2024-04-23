@@ -18,7 +18,7 @@
             "broadcast": true
         },
         {
-            "name": "TLM",
+            "name": "TM",
             "description": "Spacecraft telemetry + sun pulse",
             "frequency": 1702500000,
             "bandwidth": 500000,

@@ -7,7 +7,7 @@
     "norad": 43700,
     "downlinks": [
         {
-            "name": "NB TRSP",
+            "name": "NBTP",
             "description": "Narrowband amateur linear transponder downlink",
             "frequency": 10489750000,
             "bandwidth": 500000,
@@ -16,7 +16,7 @@
             "symrate": null
         },
         {
-            "name": "WB TRSP",
+            "name": "WBTP",
             "description": "Wideband amateur linear transponder downlink",
             "frequency": 10503000000,
             "bandwidth": 8000000,

@@ -5,7 +5,7 @@
     "norad": 39216,
     "downlinks": [
         {
-            "name": "S&R TRSP",
+            "name": "S&R TP",
             "description": "Search and Rescue Transponder",
             "frequency": 4507000000,
             "bandwidth": 400000,

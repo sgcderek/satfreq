@@ -9,7 +9,7 @@
 	"icon": "Coriolis.gif",
     "downlinks": [
         {
-            "name": "WindSat",
+            "name": "WindSat data",
             "description": "Real time WindSat sounder data",
             "frequency": 2221500000,
             "bandwidth": 1000000,

@@ -6,7 +6,7 @@
 	"icon": "PROBA-2.gif",
     "downlinks": [
         {
-            "name": "PD",
+            "name": "Payload data",
             "description": "Playback of stored Payload Data and imagery",
             "frequency": 2235000000,
             "bandwidth": 4000000,

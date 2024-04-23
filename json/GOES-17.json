@@ -9,7 +9,7 @@
     "downlinks": [
         {
             "name": "HRIT",
-            "description": "Processed products to users",
+            "description": "High-Rate Image Transmission",
             "frequency": 1694100000,
             "bandwidth": 1000000,
             "polarization": "V",
@@ -18,8 +18,8 @@
             "broadcast": true
         },
         {
-            "name": "CDA",
-            "description": "Raw engineering telemetry",
+            "name": "CDA TM",
+            "description": "Command and Data Acquisition station Telemetry",
             "frequency": 1693000000,
             "bandwidth": 50000,
             "polarization": "V",

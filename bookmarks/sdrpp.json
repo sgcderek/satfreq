@@ -3,7 +3,7 @@
     "lists": {
         "satfreq": {
             "bookmarks": {
-                "INSAT-3D S&R TRSP": {
+                "INSAT-3D S&R TP": {
                     "bandwidth": 0,
                     "frequency": 4507000000,
                     "mode": 7
@@ -33,12 +33,12 @@
                     "frequency": 1704000000,
                     "mode": 7
                 },
-                "Es'Hail-2 NB TRSP": {
+                "Es'Hail-2 NBTP": {
                     "bandwidth": 0,
                     "frequency": 10489750000,
                     "mode": 7
                 },
-                "Es'Hail-2 WB TRSP": {
+                "Es'Hail-2 WBTP": {
                     "bandwidth": 0,
                     "frequency": 10503000000,
                     "mode": 7
@@ -58,7 +58,7 @@
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "NOAA-18 S&R TRSP": {
+                "NOAA-18 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -78,7 +78,7 @@
                     "frequency": 1694100000,
                     "mode": 7
                 },
-                "GOES-17 CDA": {
+                "GOES-17 CDA TM": {
                     "bandwidth": 0,
                     "frequency": 1693000000,
                     "mode": 7
@@ -103,22 +103,22 @@
                     "frequency": 1697000000,
                     "mode": 7
                 },
-                "Elektro-L N3 RDAS": {
+                "Elektro-L N3 RDAS data": {
                     "bandwidth": 0,
                     "frequency": 7500000000,
                     "mode": 7
                 },
-                "Elektro-L N3 S&R TRSP": {
+                "Elektro-L N3 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "CloudSat CPR": {
+                "CloudSat Payload data": {
                     "bandwidth": 0,
                     "frequency": 2217500000,
                     "mode": 7
                 },
-                "PROBA-1 PD": {
+                "PROBA-1 Payload data": {
                     "bandwidth": 0,
                     "frequency": 2235000000,
                     "mode": 7
@@ -126,6 +126,11 @@
                 "SARAL DCS": {
                     "bandwidth": 0,
                     "frequency": 1698400000,
+                    "mode": 7
+                },
+                "AURA TM": {
+                    "bandwidth": 0,
+                    "frequency": 2287500000,
                     "mode": 7
                 },
                 "AURA DB": {
@@ -138,7 +143,7 @@
                     "frequency": 1701400000,
                     "mode": 7
                 },
-                "GOES-16 Raw Data Link": {
+                "GOES-16 RDL": {
                     "bandwidth": 0,
                     "frequency": 8220000000,
                     "mode": 7
@@ -148,7 +153,7 @@
                     "frequency": 1694100000,
                     "mode": 7
                 },
-                "GOES-16 CDA": {
+                "GOES-16 CDA TM": {
                     "bandwidth": 0,
                     "frequency": 1693000000,
                     "mode": 7
@@ -178,7 +183,7 @@
                     "frequency": 437550000,
                     "mode": 7
                 },
-                "ISS V/U TRSP": {
+                "ISS V/U TP": {
                     "bandwidth": 0,
                     "frequency": 437800000,
                     "mode": 7
@@ -198,7 +203,7 @@
                     "frequency": 1700000000,
                     "mode": 7
                 },
-                "MetOp-B S&R TRSP": {
+                "MetOp-B S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -223,7 +228,7 @@
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "NOAA-19 S&R TRSP": {
+                "NOAA-19 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -238,12 +243,12 @@
                     "frequency": 1702500000,
                     "mode": 7
                 },
-                "Coriolis WindSat": {
+                "Coriolis WindSat data": {
                     "bandwidth": 0,
                     "frequency": 2221500000,
                     "mode": 7
                 },
-                "PROBA-2 PD": {
+                "PROBA-2 Payload data": {
                     "bandwidth": 0,
                     "frequency": 2235000000,
                     "mode": 7
@@ -258,12 +263,12 @@
                     "frequency": 1697000000,
                     "mode": 7
                 },
-                "Elektro-L N2 RDAS": {
+                "Elektro-L N2 RDAS data": {
                     "bandwidth": 0,
                     "frequency": 7500000000,
                     "mode": 7
                 },
-                "Elektro-L N2 S&R TRSP": {
+                "Elektro-L N2 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -273,7 +278,7 @@
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "Meteor-M N2-3 S&R TRSP": {
+                "Meteor-M N2-3 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -298,7 +303,7 @@
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "NOAA-15 S&R TRSP": {
+                "NOAA-15 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -323,7 +328,7 @@
                     "frequency": 1687500000,
                     "mode": 7
                 },
-                "FengYun-2H TLM": {
+                "FengYun-2H TM": {
                     "bandwidth": 0,
                     "frequency": 1702500000,
                     "mode": 7
@@ -333,12 +338,12 @@
                     "frequency": 1697000000,
                     "mode": 7
                 },
-                "Arktika-M N1 RDAS": {
+                "Arktika-M N1 RDAS data": {
                     "bandwidth": 0,
                     "frequency": 7865000000,
                     "mode": 7
                 },
-                "Arktika-M N1 S&R TRSP": {
+                "Arktika-M N1 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -408,6 +413,11 @@
                     "frequency": 137800000,
                     "mode": 7
                 },
+                "AQUA TM": {
+                    "bandwidth": 0,
+                    "frequency": 2287500000,
+                    "mode": 7
+                },
                 "AQUA DB": {
                     "bandwidth": 0,
                     "frequency": 8160000000,
@@ -418,7 +428,7 @@
                     "frequency": 1544500000,
                     "mode": 7
                 },
-                "Meteor-M N2-2 S&R TRSP": {
+                "Meteor-M N2-2 S&R TP": {
                     "bandwidth": 0,
                     "frequency": 1544500000,
                     "mode": 7
@@ -428,17 +438,17 @@
                     "frequency": 1700000000,
                     "mode": 7
                 },
-                "GOES-13 Imager SD": {
+                "GOES-13 SD (Imager)": {
                     "bandwidth": 0,
                     "frequency": 1676000000,
                     "mode": 7
                 },
-                "GOES-13 Sounder SD": {
+                "GOES-13 SD (Sounder)": {
                     "bandwidth": 0,
                     "frequency": 1676000000,
                     "mode": 7
                 },
-                "GOES-13 PDR/GVAR": {
+                "GOES-13 PDR": {
                     "bandwidth": 0,
                     "frequency": 1685700000,
                     "mode": 7
