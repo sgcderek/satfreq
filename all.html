@@ -84,9 +84,10 @@
         }
     </style>
     <script>
-        function showMessage(title, text) {
-            document.getElementById('boxTitle').innerText = title;
-            document.getElementById('boxText').innerText = text;
+        function showMessage(downlink, frequency, description) {
+            document.getElementById('boxDownlink').innerText = downlink;
+            document.getElementById('boxFrequency').innerText = frequency;
+            document.getElementById('boxDescription').innerText = description;
             document.getElementById('overlay').style.display = 'block';
             document.getElementById('messageBox').style.display = 'block';
         }
@@ -131,10 +132,10 @@
                     satfreq.forEach(sat => {
                     sat.downlinks.forEach(downlink => {
                         content += `
-<tr>
+<tr id="triggerText" onclick="showMessage('${sat.name} ${downlink.name}','${downlink.frequency/1000000 + " MHz"} @ ${((downlink.bandwidth > downlink.symrate*2) ? downlink.bandwidth/1000 + " KHz" : prefix_sps(downlink.symrate))}','${downlink.description}')">
 <td><img src="${'icons/' + (sat.icon || '_generic0.gif')}" alt="Icon"></td>
 <td>${sat.name}</td>
-<td title="${downlink.description}" id="triggerText" onclick="showMessage('${sat.name} ${downlink.name}','${downlink.description}')">${downlink.name}</td>
+<td title="${downlink.description}">${downlink.name}</td>
 <td>${downlink.frequency/1000000 + " MHz"}</td>
 <td>${downlink.bandwidth/1000 + " KHz"}</td>
 <td>${downlink.polarization || ''}</td>
@@ -171,8 +172,9 @@
 <body>
     <div id="overlay"></div>
     <div id="messageBox">
-        <h3 id="boxTitle"></h1>
-        <p id="boxText"></p>
+        <p id="boxDownlink"></p>
+        <p id="boxFrequency"></p>
+        <p id="boxDescription"></p>
         <button onclick="closeMessageBox()">Close</button>
     </div>
     <div class="divider">
