@@ -8,12 +8,13 @@
         {
             "name": "Payload data",
             "description": "Stored data playback to ground station",
+            "note": "Used by ground segment",
+            "active": false,
             "frequency": 2217500000,
             "bandwidth": 1500000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 1000000,
-            "broadcast": false
+            "symrate": 1000000
         }
     ]
 }

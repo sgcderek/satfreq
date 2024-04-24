@@ -8,19 +8,15 @@
 	"icon": "Aura.gif",
     "downlinks": [
         {
-            "name": "TM",
-            "description": "Spacecraft telemetry",
-            "frequency": 2287500000
-        },
-        {
             "name": "DB",
             "description": "Direct Broadcast of real time sounder data",
+            "note": null,
+            "active": true,
             "frequency": 8160000000,
             "bandwidth": 12000000,
             "polarization": "RHC",
             "modulation": "OQPSK",
-            "symrate": 7500000,
-            "broadcast": true
+            "symrate": 7500000
         }
     ]
 }

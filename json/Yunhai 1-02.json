@@ -7,6 +7,8 @@
         {
             "name": "Encrypted data",
             "description": "Encrypted data",
+            "note": null,
+            "active": true,
             "frequency": 1704000000,
             "bandwidth": 7500000,
             "polarization": "RHC",

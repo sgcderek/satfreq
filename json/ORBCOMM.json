@@ -8,6 +8,8 @@
         {
             "name": "S-1",
             "description": "Subscriber data downlink channel 1",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137200000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -18,6 +20,8 @@
         {
             "name": "S-2",
             "description": "Subscriber data downlink channel 2",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137225000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -28,6 +32,8 @@
         {
             "name": "S-3",
             "description": "Subscriber data downlink channel 3",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137250000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -38,6 +44,8 @@
         {
             "name": "S-11",
             "description": "Subscriber data downlink channel 11",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137287500,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -48,6 +56,8 @@
         {
             "name": "S-12",
             "description": "Subscriber data downlink channel 12",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137312500,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -58,6 +68,8 @@
         {
             "name": "S-4",
             "description": "Subscriber data downlink channel 4",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137440000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -68,6 +80,8 @@
         {
             "name": "S-5",
             "description": "Subscriber data downlink channel 5",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137460000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -78,6 +92,8 @@
         {
             "name": "Gateway",
             "description": "Gateway data downlink",
+            "note": "Used by ground segment",
+            "active": true,
             "frequency": 137560000,
             "bandwidth": 40000,
             "polarization": "RHC",
@@ -88,6 +104,8 @@
         {
             "name": "S-6",
             "description": "Subscriber data downlink channel 6",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137662500,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -98,6 +116,8 @@
         {
             "name": "S-7",
             "description": "Subscriber data downlink channel 7",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137687500,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -108,6 +128,8 @@
         {
             "name": "S-8",
             "description": "Subscriber data downlink channel 8",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137712500,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -118,6 +140,8 @@
         {
             "name": "S-9",
             "description": "Subscriber data downlink channel 9",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137737500,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -128,6 +152,8 @@
         {
             "name": "S-10",
             "description": "Subscriber data downlink channel 10",
+            "note": "One pair of subscriber links per satellite",
+            "active": true,
             "frequency": 137800000,
             "bandwidth": 10000,
             "polarization": "RHC",

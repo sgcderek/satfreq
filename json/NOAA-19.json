@@ -11,6 +11,8 @@
         {
             "name": "APT",
             "description": "Real time Automatic Picture Transmission of reduced resolution imager data",
+            "note": null,
+            "active": true,
             "frequency": 137100000,
             "bandwidth": 45000,
             "polarization": "RHC",
@@ -21,6 +23,8 @@
         {
             "name": "DSB",
             "description": "Real time Direct Sounder Broadcast of select sounder data",
+            "note": null,
+            "active": true,
             "frequency": 137770000,
             "bandwidth": 34000,
             "polarization": "LIN",
@@ -31,6 +35,8 @@
         {
             "name": "S&R PDS",
             "description": "Search and Rescue Processed Data Stream",
+            "note": null,
+            "active": true,
             "frequency": 1544500000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -41,6 +47,8 @@
         {
             "name": "S&R TP",
             "description": "Search and Rescue Transponder",
+            "note": null,
+            "active": true,
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
@@ -51,6 +59,8 @@
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of all imager and sounder data",
+            "note": null,
+            "active": true,
             "frequency": 1698000000,
             "bandwidth": 3000000,
             "polarization": "RHC",
@@ -61,6 +71,8 @@
         {
             "name": "GAC",
             "description": "Global Access Coverage playback of select stored sounder and reduced resolution imager data",
+            "note": "Used by ground segment",
+            "active": false,
             "frequency": 1702500000,
             "bandwidth": 6000000,
             "polarization": "LHC",

@@ -10,6 +10,8 @@
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of all imager and sounder data",
+            "note": null,
+            "active": true,
             "frequency": 1701300000,
             "bandwidth": 4000000,
             "polarization": "RHC",

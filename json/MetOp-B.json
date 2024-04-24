@@ -10,6 +10,8 @@
         {
             "name": "S&R TP",
             "description": "Search and Rescue Transponder",
+            "note": null,
+            "active": true,
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
@@ -20,6 +22,8 @@
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of all imager and sounder data",
+            "note": null,
+            "active": true,
             "frequency": 1701300000,
             "bandwidth": 4000000,
             "polarization": "RHC",

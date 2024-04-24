@@ -10,12 +10,13 @@
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of select imager and sounder data",
+            "note": null,
+            "active": true,
             "frequency": 7860000000,
             "bandwidth": 64000000,
             "polarization": "RHC",
             "modulation": "QPSK",
-            "symrate": 38400000,
-            "broadcast": true
+            "symrate": 38400000
         }
     ]
 }

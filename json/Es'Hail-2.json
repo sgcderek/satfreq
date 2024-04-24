@@ -9,6 +9,8 @@
         {
             "name": "NBTP",
             "description": "Narrowband amateur linear transponder downlink",
+            "note": "Uplink from the 13cm ham band",
+            "active": true,
             "frequency": 10489750000,
             "bandwidth": 500000,
             "polarization": "V",
@@ -18,6 +20,8 @@
         {
             "name": "WBTP",
             "description": "Wideband amateur linear transponder downlink",
+            "note": "Uplink from the 13cm ham band",
+            "active": true,
             "frequency": 10503000000,
             "bandwidth": 8000000,
             "polarization": "H",

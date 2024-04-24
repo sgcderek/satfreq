@@ -11,32 +11,35 @@
         {
             "name": "SD (Imager)",
             "description": "Raw imager Sensor Data downlink",
+            "note": null,
+            "active": false,
             "frequency": 1676000000,
             "bandwidth": 4500000,
             "polarization": "V",
             "modulation": "BPSK",
-            "symrate": 2620800,
-            "broadcast": true
+            "symrate": 2620800
         },
         {
             "name": "SD (Sounder)",
             "description": "Raw sounder Sensor Data downlink",
+            "note": null,
+            "active": false,
             "frequency": 1676000000,
             "bandwidth": 60000,
             "polarization": "V",
             "modulation": "BPSK",
-            "symrate": 40000,
-            "broadcast": true
+            "symrate": 40000
         },
         {
             "name": "PDR",
-            "description": "Processed Data Relay for GOES Variable imagery",
+            "description": "Processed Data Relay of GOES Variable imagery (GVAR)",
+            "note": null,
+            "active": false,
             "frequency": 1685700000,
             "bandwidth": 3500000,
             "polarization": "V",
             "modulation": "BPSK",
-            "symrate": 2110000,
-            "broadcast": true
+            "symrate": 2110000
         }
     ]
 }

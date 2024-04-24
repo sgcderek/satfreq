@@ -10,6 +10,8 @@
         {
             "name": "HRIT",
             "description": "High-Rate Image Transmission",
+            "note": null,
+            "active": true,
             "frequency": 1694100000,
             "bandwidth": 1000000,
             "polarization": "V",
@@ -20,6 +22,8 @@
         {
             "name": "CDA TM",
             "description": "Command and Data Acquisition station Telemetry",
+            "note": null,
+            "active": true,
             "frequency": 1693000000,
             "bandwidth": 50000,
             "polarization": "V",

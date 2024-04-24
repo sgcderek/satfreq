@@ -8,6 +8,8 @@
         {
             "name": "Payload data",
             "description": "Playback of stored Payload Data and imagery",
+            "note": "Used by ground segment",
+            "active": true,
             "frequency": 2235000000,
             "bandwidth": 4000000,
             "polarization": "RHC",
