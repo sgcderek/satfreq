@@ -12,14 +12,13 @@
         {
             "name": "DDB/SMD",
             "description": "Combined Direct Data Broadcast and Stored Mission Data downlink",
-            "note": "Future mission, SMD to be used during Svalbard contact only",
+            "note": "Future mission, DDB used globally, SMD used by ground segment",
             "active": false,
             "frequency": 1707000000,
             "bandwidth": 3400000,
             "polarization": "RHC",
             "modulation": "QPSK",
-            "symrate": 1785000,
-            "broadcast": true
+            "symrate": 1785000
         }
     ]
 }
