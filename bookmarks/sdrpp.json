@@ -3,6 +3,11 @@
     "lists": {
         "satfreq": {
             "bookmarks": {
+                "AWS PFM DDB/SMD": {
+                    "bandwidth": 0,
+                    "frequency": 1707000000,
+                    "mode": 7
+                },
                 "INSAT-3D S&R TP": {
                     "bandwidth": 0,
                     "frequency": 4507000000,

@@ -2,6 +2,15 @@
 <ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>AWS PFM DDB/SMD</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>1707000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>INSAT-3D S&amp;R TP</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>4507000000</Frequency>
