@@ -11,12 +11,13 @@
         {
             "name": "WindSat data",
             "description": "Real time WindSat sounder data",
+            "note": "Downlink active, no sounder data present",
+            "active": true,
             "frequency": 2221500000,
             "bandwidth": 1000000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 512000,
-            "broadcast": true
+            "symrate": 512000
         }
     ]
 }

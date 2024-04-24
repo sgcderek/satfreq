@@ -26,7 +26,6 @@ satfreq; #58A6FF
 2217500000; CloudSat Payload data; Demod Off; 0; satfreq
 2235000000; PROBA-1 Payload data; Demod Off; 0; satfreq
 1698400000; SARAL DCS; Demod Off; 0; satfreq
-2287500000; AURA TM; Demod Off; 0; satfreq
 8160000000; AURA DB; Demod Off; 0; satfreq
 1701400000; FengYun-3C HRPT; Demod Off; 0; satfreq
 8220000000; GOES-16 RDL; Demod Off; 0; satfreq
@@ -86,7 +85,6 @@ satfreq; #58A6FF
 137712500; ORBCOMM S-8; Demod Off; 0; satfreq
 137737500; ORBCOMM S-9; Demod Off; 0; satfreq
 137800000; ORBCOMM S-10; Demod Off; 0; satfreq
-2287500000; AQUA TM; Demod Off; 0; satfreq
 8160000000; AQUA DB; Demod Off; 0; satfreq
 1544500000; Meteor-M N2-2 S&R PDS; Demod Off; 0; satfreq
 1544500000; Meteor-M N2-2 S&R TP; Demod Off; 0; satfreq

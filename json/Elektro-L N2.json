@@ -10,42 +10,46 @@
         {
             "name": "GGAK",
             "description": "GGAK-E sounder data",
+            "note": null,
+            "active": true,
             "frequency": 1693000000,
             "bandwidth": 15000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 5000,
-            "broadcast": true
+            "symrate": 5000
         },
         {
             "name": "DCP",
             "description": "Analog Data Collection Platform transponder",
+            "note": null,
+            "active": true,
             "frequency": 1697000000,
             "bandwidth": 1000000,
             "polarization": "LIN",
             "modulation": null,
-            "symrate": null,
-            "broadcast": true
+            "symrate": null
         },
         {
             "name": "RDAS data",
             "description": "Full imager/instrument downlink for the Raw Data Acquisition Station",
+            "note": null,
+            "active": true,
             "frequency": 7500000000,
             "bandwidth": 60000000,
             "polarization": "LHC",
             "modulation": "BPSK",
-            "symrate": 30720000,
-            "broadcast": true
+            "symrate": 30720000
         },
         {
             "name": "S&R TP",
             "description": "Search and Rescue transponder",
+            "note": null,
+            "active": true,
             "frequency": 1544500000,
             "bandwidth": 300000,
-            "polarization": "LHCP",
+            "polarization": "LHC",
             "modulation": null,
-            "symrate": null,
-            "broadcast": true
+            "symrate": null
         }
     ]
 }

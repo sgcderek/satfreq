@@ -128,11 +128,6 @@
                     "frequency": 1698400000,
                     "mode": 7
                 },
-                "AURA TM": {
-                    "bandwidth": 0,
-                    "frequency": 2287500000,
-                    "mode": 7
-                },
                 "AURA DB": {
                     "bandwidth": 0,
                     "frequency": 8160000000,
@@ -411,11 +406,6 @@
                 "ORBCOMM S-10": {
                     "bandwidth": 0,
                     "frequency": 137800000,
-                    "mode": 7
-                },
-                "AQUA TM": {
-                    "bandwidth": 0,
-                    "frequency": 2287500000,
                     "mode": 7
                 },
                 "AQUA DB": {

@@ -236,15 +236,6 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
-		<Name>AURA TM</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>2287500000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
 		<Name>AURA DB</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>8160000000</Frequency>
@@ -770,15 +761,6 @@
 		<Name>ORBCOMM S-10</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>137800000</Frequency>
-		<DetectorType>RAW</DetectorType>
-		<Shift>0</Shift>
-		<FilterBandwidth>1000</FilterBandwidth>
-	</MemoryEntry>
-	<MemoryEntry>
-		<IsFavourite>false</IsFavourite>
-		<Name>AQUA TM</Name>
-		<GroupName>satfreq</GroupName>
-		<Frequency>2287500000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>

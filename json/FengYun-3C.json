@@ -10,12 +10,13 @@
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of select imager and sounder data",
+            "note": "Only active in sight of Asia",
+            "active": true,
             "frequency": 1701400000,
             "bandwidth": 5000000,
             "polarization": "RHC",
             "modulation": "QPSK",
-            "symrate": 2600000,
-            "broadcast": true
+            "symrate": 2600000
         }
     ]
 }

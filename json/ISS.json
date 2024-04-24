@@ -10,6 +10,8 @@
         {
             "name": "Crew Voice",
             "description": "ISS on-orbit analog FM voice",
+            "note": "Only used during announced events",
+            "active": true,
             "frequency": 130167000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -19,6 +21,8 @@
         {
             "name": "Crew Voice",
             "description": "ISS space-to-ground analog FM voice",
+            "note": "Only used during announced events",
+            "active": true,
             "frequency": 143625000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -28,6 +32,8 @@
         {
             "name": "Crew Voice",
             "description": "ISS space-to-ground analog FM voice",
+            "note": "Only used during announced events",
+            "active": true,
             "frequency": 145800000,
             "bandwidth": 20000,
             "polarization": "RHC",
@@ -37,6 +43,8 @@
         {
             "name": "SSTV",
             "description": "Special event Short Scan Television images",
+            "note": "Only used during announced events",
+            "active": true,
             "frequency": 145800000,
             "bandwidth": 20000,
             "polarization": "RHC",
@@ -46,6 +54,8 @@
         {
             "name": "APRS",
             "description": "Mode V Automatic Packet Reporting System digipeater downlink",
+            "note": null,
+            "active": true,
             "frequency": 145825000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -55,6 +65,8 @@
         {
             "name": "APRS",
             "description": "Mode U Automatic Packet Reporting System digipeater downlink",
+            "note": null,
+            "active": true,
             "frequency": 437550000,
             "bandwidth": 10000,
             "polarization": "RHC",
@@ -64,6 +76,8 @@
         {
             "name": "V/U TP",
             "description": "Mode V/U amateur FM transponder",
+            "note": null,
+            "active": true,
             "frequency": 437800000,
             "bandwidth": 20000,
             "polarization": "RHC",

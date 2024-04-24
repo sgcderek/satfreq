@@ -11,32 +11,35 @@
         {
             "name": "S&R PDS",
             "description": "Search and Rescue Processed Data Stream",
+            "note": null,
+            "active": true,
             "frequency": 1544500000,
             "bandwidth": 10000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 2400,
-            "broadcast": true
+            "symrate": 2400
         },
         {
             "name": "S&R TP",
             "description": "Search and Rescue Transponder",
+            "note": null,
+            "active": true,
             "frequency": 1544500000,
             "bandwidth": 450000,
             "polarization": "RHC",
             "modulation": null,
-            "symrate": null,
-            "broadcast": true
+            "symrate": null
         },
         {
             "name": "HRPT",
             "description": "Real time High Resolution Picture Transmission of select imager and sounder data",
+            "note": null,
+            "active": true,
             "frequency": 1700000000,
             "bandwidth": 3000000,
             "polarization": "RHC",
             "modulation": "BPSK",
-            "symrate": 665400,
-            "broadcast": true
+            "symrate": 665400
         }
     ]
 }

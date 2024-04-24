@@ -7,6 +7,8 @@
         {
             "name": "DCS",
             "description": "Real time Argos Data Collection System data",
+            "note": null,
+            "active": true,
             "frequency": 1698400000,
             "bandwidth": 600000,
             "polarization": "RHC",

@@ -10,22 +10,24 @@
         {
             "name": "S-VISSR",
             "description": "Imager data relay downlink",
+            "note": null,
+            "active": true,
             "frequency": 1687500000,
             "bandwidth": 1000000,
             "polarization": "V",
             "modulation": "BPSK",
-            "symrate": 660000,
-            "broadcast": true
+            "symrate": 660000
         },
         {
             "name": "TM",
             "description": "Spacecraft telemetry + sun pulse",
+            "note": null,
+            "active": true,
             "frequency": 1702500000,
             "bandwidth": 500000,
             "polarization": "V",
             "modulation": "BPSK",
-            "symrate": 2000,
-            "broadcast": true
+            "symrate": 2000
         }
     ]
 }
