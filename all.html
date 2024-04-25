@@ -84,10 +84,11 @@
         }
     </style>
     <script>
-        function showMessage(downlink, frequency, description) {
+        function showMessage(downlink, frequency, description, note) {
             document.getElementById('boxDownlink').innerText = downlink;
             document.getElementById('boxFrequency').innerText = frequency;
             document.getElementById('boxDescription').innerText = description;
+            document.getElementById('boxNote').innerText = (note != "null" ? note : "");
             document.getElementById('overlay').style.display = 'block';
             document.getElementById('messageBox').style.display = 'block';
         }
@@ -119,6 +120,8 @@
 <a href="satfreq.json">Raw JSON catalogue</a><br/>
 <a href="bookmarks/">SDR bookmarks</a><br/>
 <h2>Downlinks:</h2>
+<p>* - downlink contains a note; † - downlink is presumed inactive</p>
+<p>Click/tap on any downlink to view details</p>
 <table>
 <tr position="sticky">
 <th></th>
@@ -132,10 +135,10 @@
                     satfreq.forEach(sat => {
                     sat.downlinks.forEach(downlink => {
                         content += `
-<tr id="triggerText" onclick="showMessage('${sat.name} ${downlink.name}','${downlink.frequency/1000000 + " MHz"} @ ${((downlink.bandwidth > downlink.symrate*2) ? downlink.bandwidth/1000 + " KHz" : prefix_sps(downlink.symrate))}','${downlink.description}')">
+<tr id="triggerText" onclick="showMessage('${sat.name} ${downlink.name}','${downlink.frequency/1000000 + " MHz"} @ ${((downlink.bandwidth > downlink.symrate*2) ? downlink.bandwidth/1000 + " KHz" : prefix_sps(downlink.symrate))}','${downlink.description}','${downlink.note}')">
 <td><img src="${'icons/' + (sat.icon || '_generic0.gif')}" alt="Icon"></td>
 <td>${sat.name}</td>
-<td title="${downlink.description}">${downlink.name}</td>
+<td title="${downlink.description}">${downlink.name + (downlink.note != null ? "*" : "") + (downlink.active ? "" : " †")}</td>
 <td>${downlink.frequency/1000000 + " MHz"}</td>
 <td>${downlink.bandwidth/1000 + " KHz"}</td>
 <td>${downlink.polarization || ''}</td>
@@ -172,9 +175,10 @@
 <body>
     <div id="overlay"></div>
     <div id="messageBox">
-        <p id="boxDownlink"></p>
+        <b><p id="boxDownlink"></p></b>
         <p id="boxFrequency"></p>
-        <p id="boxDescription"></p>
+        <i><p id="boxDescription"></p></i>
+        <i><p id="boxNote" style="color:yellow;"></p></i>
         <button onclick="closeMessageBox()">Close</button>
     </div>
     <div class="divider">
