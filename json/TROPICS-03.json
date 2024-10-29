@@ -1,0 +1,21 @@
+{
+    "name": "TROPICS-03",
+    "altnames": [],
+    "cospar": "2023-073B",
+    "norad": 56753,
+	"icon": "_generic0.gif",
+    "downlinks": [
+        {
+            "name": "TMS playback",
+            "description": "Playback of stored TMS instrument data",
+            "note": "Encrypted, used by ground segment",
+            "active": true,
+            "frequency": 2252500000,
+            "bandwidth": 3500000,
+            "polarization": "RHC",
+            "modulation": "OQPSK",
+            "symrate": 2000000,
+            "broadcast": false
+        }
+    ]
+}
