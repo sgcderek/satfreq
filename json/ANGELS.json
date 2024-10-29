@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": "2019-092D",
     "norad": 44876,
+	"icon": "ANGELS.gif",
     "downlinks": [
         {
             "name": "DCS",

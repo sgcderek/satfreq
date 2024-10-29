@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": "2013-009A",
     "norad": 39086,
+	"icon": "SARAL.gif",
     "downlinks": [
         {
             "name": "DCS",

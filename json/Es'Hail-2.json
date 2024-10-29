@@ -5,6 +5,7 @@
     ],
     "cospar": "2018-090A",
     "norad": 43700,
+	"icon": "EsHail-2.gif",
     "downlinks": [
         {
             "name": "NBTP",
