@@ -335,6 +335,42 @@
 	</MemoryEntry>
 	<MemoryEntry>
 		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DR S&amp;R TP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4507000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DR DRT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4506050000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DR Imager</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4781000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DR Sounder</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4798000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
 		<Name>AWS PFM DDB/SMD</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1707000000</Frequency>
@@ -644,6 +680,42 @@
 		<Name>MetOp-C HRPT</Name>
 		<GroupName>satfreq</GroupName>
 		<Frequency>1701300000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DS S&amp;R TP</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4507000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DS DRT</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4506050000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DS Imager</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4781000000</Frequency>
+		<DetectorType>RAW</DetectorType>
+		<Shift>0</Shift>
+		<FilterBandwidth>1000</FilterBandwidth>
+	</MemoryEntry>
+	<MemoryEntry>
+		<IsFavourite>false</IsFavourite>
+		<Name>INSAT-3DS Sounder</Name>
+		<GroupName>satfreq</GroupName>
+		<Frequency>4798000000</Frequency>
 		<DetectorType>RAW</DetectorType>
 		<Shift>0</Shift>
 		<FilterBandwidth>1000</FilterBandwidth>

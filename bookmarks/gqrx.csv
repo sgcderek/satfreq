@@ -37,6 +37,10 @@ satfreq; #58A6FF
 1544500000; Meteor-M N2-3 S&R TP; Demod Off; 0; satfreq
 1700000000; Meteor-M N2-3 HRPT; Demod Off; 0; satfreq
 1698400000; SARAL DCS; Demod Off; 0; satfreq
+4507000000; INSAT-3DR S&R TP; Demod Off; 0; satfreq
+4506050000; INSAT-3DR DRT; Demod Off; 0; satfreq
+4781000000; INSAT-3DR Imager; Demod Off; 0; satfreq
+4798000000; INSAT-3DR Sounder; Demod Off; 0; satfreq
 1707000000; AWS PFM DDB/SMD; Demod Off; 0; satfreq
 130167000; ISS Crew Voice; Demod Off; 0; satfreq
 143625000; ISS Crew Voice; Demod Off; 0; satfreq
@@ -72,6 +76,10 @@ satfreq; #58A6FF
 1698000000; NOAA-19 HRPT; Demod Off; 0; satfreq
 1702500000; NOAA-19 GAC; Demod Off; 0; satfreq
 1701300000; MetOp-C HRPT; Demod Off; 0; satfreq
+4507000000; INSAT-3DS S&R TP; Demod Off; 0; satfreq
+4506050000; INSAT-3DS DRT; Demod Off; 0; satfreq
+4781000000; INSAT-3DS Imager; Demod Off; 0; satfreq
+4798000000; INSAT-3DS Sounder; Demod Off; 0; satfreq
 2252500000; TROPICS-05 TMS playback; Demod Off; 0; satfreq
 137200000; ORBCOMM S-1; Demod Off; 0; satfreq
 137225000; ORBCOMM S-2; Demod Off; 0; satfreq

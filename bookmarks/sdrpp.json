@@ -183,6 +183,26 @@
                     "frequency": 1698400000,
                     "mode": 7
                 },
+                "INSAT-3DR S&R TP": {
+                    "bandwidth": 0,
+                    "frequency": 4507000000,
+                    "mode": 7
+                },
+                "INSAT-3DR DRT": {
+                    "bandwidth": 0,
+                    "frequency": 4506050000,
+                    "mode": 7
+                },
+                "INSAT-3DR Imager": {
+                    "bandwidth": 0,
+                    "frequency": 4781000000,
+                    "mode": 7
+                },
+                "INSAT-3DR Sounder": {
+                    "bandwidth": 0,
+                    "frequency": 4798000000,
+                    "mode": 7
+                },
                 "AWS PFM DDB/SMD": {
                     "bandwidth": 0,
                     "frequency": 1707000000,
@@ -341,6 +361,26 @@
                 "MetOp-C HRPT": {
                     "bandwidth": 0,
                     "frequency": 1701300000,
+                    "mode": 7
+                },
+                "INSAT-3DS S&R TP": {
+                    "bandwidth": 0,
+                    "frequency": 4507000000,
+                    "mode": 7
+                },
+                "INSAT-3DS DRT": {
+                    "bandwidth": 0,
+                    "frequency": 4506050000,
+                    "mode": 7
+                },
+                "INSAT-3DS Imager": {
+                    "bandwidth": 0,
+                    "frequency": 4781000000,
+                    "mode": 7
+                },
+                "INSAT-3DS Sounder": {
+                    "bandwidth": 0,
+                    "frequency": 4798000000,
                     "mode": 7
                 },
                 "TROPICS-05 TMS playback": {
