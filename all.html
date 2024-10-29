@@ -122,7 +122,8 @@
 <h2>Downlinks:</h2>
 <p>* - downlink contains a note; † - downlink is presumed inactive</p>
 <p>Click/tap on any downlink to view details</p>
-<table>
+<table class="sortable">
+<thead>
 <tr position="sticky">
 <th></th>
 <th>Satellite</th>
@@ -131,7 +132,9 @@
 <th>Bandwidth</th>
 <th>Polarization</th>
 <th>Symbol Rate</th>
-</tr>`;
+</tr>
+</thead>
+<tbody>`;
                     satfreq.forEach(sat => {
                     sat.downlinks.forEach(downlink => {
                         content += `
@@ -146,6 +149,7 @@
 </tr>`;
                     });
                     });
+                    content += '</tbody></table>';
                     document.querySelector("main").innerHTML = content;
                     return;
         }
@@ -191,5 +195,6 @@
             h
         </main>
     </div>
+    <script src="https://cdn.jsdelivr.net/gh/tofsjonas/sortable@latest/sortable.min.js"></script>
 </body>
 </html>
