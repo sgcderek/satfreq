@@ -3,7 +3,7 @@
     "altnames": [],
     "cospar": "2023-073B",
     "norad": 56753,
-	"icon": "_generic0.gif",
+	"icon": "TROPICS.gif",
     "downlinks": [
         {
             "name": "TMS playback",

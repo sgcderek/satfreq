@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": "2019-063A",
     "norad": 44547,
+	"icon": "_generic2.gif",
     "downlinks": [
         {
             "name": "Encrypted data",

@@ -3,6 +3,7 @@
     "altnames": [],
     "cospar": "2013-038B",
     "norad": 39216,
+	"icon": "INSAT-3.gif",
     "downlinks": [
         {
             "name": "S&R TP",
